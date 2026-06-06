@@ -114,7 +114,7 @@ TIMDR może być stosowany do:
 - optymalizacji dynamicznej  
 
 ---
-
+# 1. Struktura repozytorium
 ## Repository Structure (EN)
 This repository will contain:
 - `/docs` — full documentation, diagrams, glossary  
@@ -130,6 +130,124 @@ Repozytorium będzie zawierać:
 - `/notes` — szkice i rozwój wewnętrzny  
 
 ---
+# TIMDR — Topology–Information–Modal Dynamics–Resonance
+### Formalny model powstawania struktur poprzez topologię, informację i rezonans
+
+TIMDR jest modelem teoretycznym opisującym, w jaki sposób stabilne struktury
+powstają z interakcji topologii, informacji i modalności falowych.
+Łączy geometrię, dynamikę falową, interferencję i emergencję w jeden spójny formalizm.
+
+Repozytorium zawiera:
+- definicje formalne,
+- modele matematyczne,
+- diagramy topologiczne,
+- aksjomaty,
+- przykłady zastosowań,
+- słownik pojęć EN/PL.
+
+---
+
+---
+
+# 2. Idea TIMDR
+
+TIMDR opisuje powstawanie stabilnych struktur poprzez sekwencję:
+
+
+
+\[
+T \rightarrow I \rightarrow M \rightarrow I(t) \rightarrow R \rightarrow E
+\]
+
+
+
+gdzie:
+
+- **T** — topologia (torus, Möbius, warstwy)  
+- **I** — informacja jako konfiguracja topologiczna  
+- **M** — modalności falowe (f, φ, A)  
+- **I(t)** — interferencja modalna  
+- **R** — rezonans (wyrównanie modalne)  
+- **E** — właściwości emergentne  
+
+---
+
+# 3. Kluczowe założenia
+
+- Topologia poprzedza dynamikę.  
+- Informacja jest fizyczna, nie symboliczna.  
+- Modalności wynikają z informacji.  
+- Interferencja organizuje strukturę.  
+- Rezonans stabilizuje wzorce.  
+- Emergencja jest wynikiem rezonansu.  
+- Struktury są hierarchiczne i warstwowe.
+
+---
+
+# 4. Zawartość repozytorium
+
+## Diagramy
+W folderze `diagrams/` znajdują się:
+- formalne równania (F),
+- rozszerzony przepływ matematyczny (G),
+- topologia torus–Möbius (H),
+- kolejne diagramy rezonansowe.
+
+## Modele
+W folderze `models/` znajdują się:
+- modele topologiczne,
+- modele informacyjne,
+- modele modalne,
+- modele interferencyjne,
+- modele rezonansowe,
+- modele emergencji,
+- pełny model matematyczny (J).
+
+## Teoria
+W folderze `theory/` znajdują się:
+- aksjomaty TIMDR (K),
+- formalna definicja (L).
+
+## Słownik
+`Glossary_EN_PL.md` — definicje pojęć w dwóch językach.
+
+## Przykłady
+`Examples.md` — zastosowania TIMDR w fizyce, inżynierii, biologii, sieciach, ekonomii.
+
+---
+
+# 5. Zastosowania TIMDR
+
+TIMDR znajduje zastosowanie w:
+- fizyce teoretycznej (stabilność cząstek),
+- inżynierii (drgania, rezonans),
+- sieciach informacyjnych (routing, synchronizacja),
+- biologii (rytmy, koherencja),
+- ekonomii (cykle modalne),
+- systemach energetycznych (synchronizacja faz).
+
+---
+
+# 6. Status projektu
+
+Projekt jest rozwijany iteracyjnie.  
+Każdy moduł jest niezależny, ale wszystkie łączą się w spójną teorię.
+
+---
+
+# 7. Licencja
+
+Projekt może być używany do badań, edukacji i rozwoju teorii.
+
+---
+
+# 8. Autor
+
+Model rozwijany przez Jacek S. Kielich  
+z pomocą asystenta AI (Microsoft Copilot).
+
+
+
 
 ## License
 MIT License (recommended
