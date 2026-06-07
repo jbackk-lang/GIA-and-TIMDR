@@ -283,4 +283,6 @@ z pomocą asystenta AI (Microsoft Copilot).
 
 
 ## License
-MIT License (recommended
+MIT License (recommended)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20576471.svg)](https://doi.org/10.5281/zenodo.20576471)  
+**A Topological–Informational Model of Modal Dynamics in Structured Fields**
