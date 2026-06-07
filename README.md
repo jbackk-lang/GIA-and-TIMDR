@@ -267,6 +267,69 @@ Projekt jest rozwijany iteracyjnie.
 Każdy moduł jest niezależny, ale wszystkie łączą się w spójną teorię.
 
 ---
+---
+
+## 🔷 Prime‑Phase Operator (TIMDR‑T)
+
+TIMDR‑T jest operatorem matematycznym definiującym sposób, w jaki teoria TIMDR
+oddziela stabilne modalności od przejść fazowych.  
+Jest to meta‑mechanizm („wzór na wzór”), który generuje filtry fazowe
+stosowane w modelach topologicznych, interferencyjnych i rezonansowych.
+
+### 1. Rozdział liczb na węzły fazowe i resztę
+
+Liczby pierwsze pełnią rolę stabilnych modalności (węzłów fazowych),  
+natomiast liczby złożone reprezentują strefy przejściowe.
+
+
+
+\[
+\phi(n)=
+\begin{cases}
+0 & n \text{ jest pierwsza} \\
+1 & n \text{ jest złożona}
+\end{cases}
+\]
+
+
+
+- **0** → czysta modalność (stabilny węzeł)  
+- **1** → przejście fazowe (zmiana, skręt, łuski, pancerz)
+
+### 2. Operator TIMDR‑T
+
+Dla dowolnej funkcji modalnej \(f(n)\):
+
+
+
+\[
+\mathcal{T}(f,n)=
+\begin{cases}
+f(n) & n\in P \\
+f(n+1)-f(n) & n\notin P
+\end{cases}
+\]
+
+
+
+Interpretacja:
+
+- jeśli \(n\) jest pierwsza → zachowujemy wartość (czysty sygnał),  
+- jeśli \(n\) jest złożona → bierzemy różnicę (przejście fazowe).
+
+### 3. Znaczenie fizyczne
+
+Operator TIMDR‑T formalizuje:
+
+- stabilne modalności torusa‑Möbiusa,  
+- strefy przejściowe między modalnościami,  
+- reorganizację fazy (łuski, pancerz),  
+- filtrację szumu strukturalnego.
+
+TIMDR‑T jest matematycznym odpowiednikiem tego, co filtr TIMDR ujawnia
+na obrazach (np. struktury łuskowe i rezonansowe widoczne w danych NASA).
+
+---
 
 # 7. Licencja
 
