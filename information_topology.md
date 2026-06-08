@@ -78,5 +78,59 @@ I‑Node ── I‑Edge ── I‑Node
    └── I‑Twist (Möbius)
    │
    └── I‑Res (Rezonans)
+
+---------------------
+
 matematyka
+
+1. Przestrzeń Informacyjna (I‑Space)
+I = (N, E)
+N = zbiór węzłów informacyjnych
+E = zbiór relacji informacyjnych
+
+Stan węzła:
+s_i ∈ R^k
+
+Waga relacji:
+w_ij ∈ R
+
+2. Gradient Informacji
+Gradient informacji:
+grad_I(s_i) = suma po j z sąsiadów(i) [ w_ij * (s_j - s_i) ]
+
+3. Operator Zmiany Topologicznej (I‑Delta)
+Delta_I = grad_I(s) + Phi
+Phi = zakłócenie topologiczne (np. skręt, rezonans)
+
+4. Operator Cyklu (I‑Cycle, torus)
+Warunek cyklu stabilnego:
+s_i(t) = s_i(t + T)
+
+Operator cyklu:
+I_cycle(s_i) = 0
+
+5. Operator Skrętu (I‑Twist, Möbius)
+Zmiana orientacji informacji:
+I_twist(s_i) = -s_i
+
+6. Rezonans Informacyjny (I‑Resonance)
+R(omega) = suma po i [ s_i * exp(i * omega * t) ]
+
+Warunek rezonansu:
+abs( R(omega) ) > theta
+
+7. Interferencja Informacyjna
+Interferencja dwóch struktur:
+I_int = s_i^(1) + s_i^(2)
+
+Warunek nieliniowości interferencji:
+grad_I( s_i^(1) + s_i^(2) ) ≠ grad_I(s_i^(1)) + grad_I(s_i^(2))
+
+8. Emergentna Struktura Informacyjna
+Warunek emergencji:
+Delta_I > lambda
+
+9. Operator TIMDR‑T (wersja informacyjna)
+T(I) = I_cycle + I_twist + Delta_I
+
 
