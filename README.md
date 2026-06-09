@@ -11,7 +11,8 @@ dynamics into a single coherent framework.
 
 This project is archived and citable via Zenodo:
 
-[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.20576471)
+[[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.20576471)
+](https://doi.org/10.5281/zenodo.20615173)
 
 ---
 
