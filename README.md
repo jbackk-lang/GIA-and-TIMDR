@@ -429,6 +429,11 @@ behavior:
 - technological development cycles.
 
 ---
+## Formal Definition of TIMDR
+
+TIMDR is a structural–topological model defined on a space of states
+equipped with:
+
 
 # 7. Licencja
 
@@ -446,5 +451,5 @@ z pomocą asystenta AI (Microsoft Copilot).
 
 ## License
 MIT License (recommended)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20576471.svg)](https://doi.org/10.5281/zenodo.20576471)  
+(https://doi.org/10.5281/zenodo.20576471)
 **A Topological–Informational Model of Modal Dynamics in Structured Fields**
