@@ -1,11 +1,23 @@
-# Topological‑Informational Model of Resonant Dynamics (TIMRD)
-### Topologiczno‑Informacyjny Model Dynamiki Rezonansowej (TIMDR)
-# TIMDR — Topological Interference Modal Dynamics & Resonance
-### Unified Multilayer Theory of Structure, Information, Modalities, Interference, Resonance & Emergence
+## Example: TIMDR in Action (Conceptual)
 
-TIMDR is a multilayer theoretical framework describing how **structures**, **signals**, and **modalities** interact through **interference** and **resonance**, producing **emergent behavior** across physics, biology, cognition, technology, language, AI, and art.
+Consider a complex signal or system with:
 
-It is not a single model — it is a **meta‑framework** capable of expressing diverse systems using one mathematical backbone.
+- multiple frequencies,
+- feedback loops,
+- intermittent instabilities.
+
+Using TIMDR:
+
+1. T: we map the structure of the system (loops, connections, gaps).
+2. I: we assign informational content (signals, flows, dependencies).
+3. M: we classify states as allowed, borderline, forbidden or unstable.
+4. I(t): we track how these states evolve over time.
+5. R: we identify resonant patterns and collapse pathways.
+6. E: we observe which new stable or unstable structures emerge.
+
+This allows us to see not only “what happens”, but **why** certain
+configurations are stable, why others collapse, and which states are
+structurally impossible.
 
 ---
 
