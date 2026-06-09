@@ -180,7 +180,37 @@ Repozytorium zawiera:
 
 ---
 
+- a **topological layer** (T): global structure and connectivity,
+- an **informational layer** (I): encoded relations and flows,
+- a **modal layer** (M): possible, necessary and forbidden states,
+- a **temporal information layer** (I(t)): evolution of information,
+- a **resonance layer** (R): amplification, interference and stability,
+- an **emergence layer** (E): new structures arising from the previous layers.
+
+In short:
+
+- T defines the shape of the system,
+- I defines what can flow through it,
+- M defines what is allowed or forbidden,
+- I(t) defines how it changes,
+- R defines what is amplified or suppressed,
+- E defines what appears as a result.
 ---
+## TIMDR Processing Pipeline
+
+The core TIMDR pipeline can be written as:
+
+T → I → M → I(t) → R → E
+
+1. T (Topology): define the structural space (nodes, links, loops, gaps).
+2. I (Information): assign informational content and relations to the structure.
+3. M (Modality): classify states as possible, necessary, forbidden or unstable.
+4. I(t) (Temporal Information): track how information evolves over time.
+5. R (Resonance): identify resonant patterns, amplification and interference.
+6. E (Emergence): observe new structures, behaviors or patterns that arise.
+
+This pipeline can be applied to signals, networks, spectra, particle states,
+economic cycles and many other complex systems.
 
 # 2. Idea TIMDR
 
@@ -429,6 +459,53 @@ behavior:
 - technological development cycles.
 
 ---
+## Möbius Structure of TIMDR
+
+The core structural pattern of TIMDR can be visualized as a triple-loop
+Möbius-like path:
+
+          ┌───────────────┐
+          │    LOOP 1      │
+          └───────┬───────┘
+                  │
+          ┌───────▼───────┐
+          │    LOOP 2      │
+          └───────┬───────┘
+                  │
+          ┌───────▼───────┐
+          │    LOOP 3      │
+          └───────┬───────┘
+                  │
+                (closure)
+
+Loop 1: stable, low-tension states  
+Loop 2: stable but under structural tension  
+Loop 3: unstable, collapse-prone states  
+Closure: the seam that connects all loops into one continuous path.
+
+
+## Applications of TIMDR
+## Example: TIMDR in Action (Conceptual)
+
+Consider a complex signal or system with:
+
+- multiple frequencies,
+- feedback loops,
+- intermittent instabilities.
+
+Using TIMDR:
+
+1. T: we map the structure of the system (loops, connections, gaps).
+2. I: we assign informational content (signals, flows, dependencies).
+3. M: we classify states as allowed, borderline, forbidden or unstable.
+4. I(t): we track how these states evolve over time.
+5. R: we identify resonant patterns and collapse pathways.
+6. E: we observe which new stable or unstable structures emerge.
+
+This allows us to see not only “what happens”, but **why** certain
+configurations are stable, why others collapse, and which states are
+structurally impossible.
+
 ## Formal Definition of TIMDR
 
 TIMDR is a structural–topological model defined on a space of states
