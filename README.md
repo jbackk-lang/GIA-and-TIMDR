@@ -250,7 +250,82 @@ impossible.
 ```
 
 ---
+## RATIO OBEIGÓW (2 → 24 → 118)
 
+### 1. Pierwszy obieg — 2 pierwiastki
+- struktura: 1 kierunek (orbital s)
+- pojemność: 2 elektrony
+- pierwiastki: H, He
+- **N₁ = 2**
+
+### 2. Drugi obieg — 24 pierwiastki
+- struktura: 3 kierunki (orbitale p)
+- pojemność okresu: 8 elektronów
+- trzy pełne „ósemki”: 3 × 8 = 24
+- **N₂ = 24**
+
+### 3. Nasz obieg — 118 pierwiastków
+- struktura: pełna siatka (s + p + d + f)
+- pełna tablica okresowa
+- **N₃ = 118**
+
+---
+
+## Współczynniki redukcji
+
+### Drugi → Pierwszy
+
+
+\[
+k_{2\to1} = \frac{N_1}{N_2} = \frac{2}{24} = \frac{1}{12}
+\]
+
+
+
+### Nasz → Pierwszy
+
+
+\[
+k_{3\to1} = \frac{N_1}{N_3} = \frac{2}{118} \approx \frac{1}{59}
+\]
+
+
+
+---
+
+## Interpretacja
+- **1/12** — skala redukcji między obiegiem trójkątnym a minimalnym.
+- **1/59** — skala redukcji między pełną siatką a minimalnym.
+- Oba współczynniki wynikają wyłącznie z liczby pierwiastków w obiegach.
+
+---
+
+## Zastosowanie (widma)
+Przeskalowanie widma makro (gwiazda) do minimalnego widma (H/He):
+
+
+
+\[
+\lambda^{(3\to1)} = \frac{\lambda_{\text{astro}}}{59}
+\]
+
+
+
+
+
+\[
+\lambda^{(2\to1)} = \frac{\lambda_{\text{astro}}}{12}
+\]
+
+
+
+Po skalowaniu porównuje się **wzór odstępów** z liniami H/He.
+
+---
+Kolaps wyższego obiegu zachodzi „od razu” w strukturze, ale materia reaguje z opóźnieniem. 
+Chmury i powstawanie nowych gwiazd/pierwiastków są powolnym dogaszaniem kolapsu, który już zaszedł w świecie niewidocznym.
+
+---
 ## 8. License
 
 MIT License — free to use, modify and build upon.
