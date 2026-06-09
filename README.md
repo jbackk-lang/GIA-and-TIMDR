@@ -322,8 +322,27 @@ Przeskalowanie widma makro (gwiazda) do minimalnego widma (H/He):
 Po skalowaniu porównuje się **wzór odstępów** z liniami H/He.
 
 ---
-Kolaps wyższego obiegu zachodzi „od razu” w strukturze, ale materia reaguje z opóźnieniem. 
-Chmury i powstawanie nowych gwiazd/pierwiastków są powolnym dogaszaniem kolapsu, który już zaszedł w świecie niewidocznym.
+## R23 — Opóźnienie redukcji większego obiegu
+
+Kolaps większego obiegu zachodzi najpierw w strukturze (topologii stanu), a dopiero później w materii.  
+Dlatego skutki widzimy z opóźnieniem.
+
+- większy obieg miał: **288 stanów**  
+- nasz obieg ma: **118 stanów**  
+- **170 stanów** zostało zredukowanych do form niewidocznych (świat struktury)
+
+Materia reaguje wolniej:  
+chmury, mgławice, zapadanie, formowanie nowych gwiazd i pierwiastków to powolne dogaszanie kolapsu, który zaszedł wcześniej.
+
+Jeśli część dużego obiegu opierała się na tych samych pierwiastkach, to widzimy jednocześnie:
+- pozostałość (chmura),
+- oraz powstawanie nowych struktur.
+
+Opóźnienie wynika z różnicy skal czasowych:  
+kolaps struktury jest natychmiastowy,  
+kolaps materii trwa miliardy lat.
+
+
 
 ---
 ## 8. License
