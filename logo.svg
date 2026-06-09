@@ -1,0 +1,30 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Tło -->
+  <rect width="600" height="600" fill="#0d1117"/>
+
+  <!-- Taśma Möbiusa -->
+  <path d="M150,300
+           C150,120 450,120 450,300
+           C450,480 150,480 150,300
+           Z"
+        fill="none" stroke="#58a6ff" stroke-width="22" opacity="0.9"/>
+
+  <!-- Skręt 1 – He -->
+  <circle cx="150" cy="300" r="22" fill="#58a6ff"/>
+  <text x="150" y="305" font-size="20" text-anchor="middle" font-family="Arial" fill="#0d1117">He</text>
+
+  <!-- Skręt 2 – Fe -->
+  <circle cx="300" cy="150" r="22" fill="#f1c40f"/>
+  <text x="300" y="155" font-size="20" text-anchor="middle" font-family="Arial" fill="#0d1117">Fe</text>
+
+  <!-- Skręt 3 – Og -->
+  <circle cx="450" cy="300" r="22" fill="#ff6b6b"/>
+  <text x="450" y="305" font-size="20" text-anchor="middle" font-family="Arial" fill="#0d1117">Og</text>
+
+  <!-- Podpis -->
+  <text x="300" y="560" font-size="28" text-anchor="middle" font-family="Arial" fill="#58a6ff">
+    JACEK • MODEL HELU
+  </text>
+
+</svg>
