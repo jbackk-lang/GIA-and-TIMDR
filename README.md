@@ -111,7 +111,51 @@ These values correspond to **stable informational states**.
 /diagrams
     pipeline_ascii.txt
 ```
+dopisek
+---
+Najważniejsze pojęcia (inżyniersko)
+Orientation
+Kierunek interpretacji sygnału.
+Coś jak „polaryzacja” w elektronice albo „bit kierunku” w protokołach.
 
+Horizon
+Granica widoczności informacji.
+Coś jak „scope” w programowaniu albo „granica pamięci podręcznej”.
+
+Chain
+Łańcuch zależności.
+Jak pipeline w CI/CD albo sekwencja kroków w algorytmie.
+
+Möbius Transition
+Odwrócenie orientacji.
+Jak negacja, ale strukturalna — zmienia sposób patrzenia na dane.
+
+Resonance
+Zgodność stanów w czasie.
+Jak synchronizacja zegarów, lockstep, alignment.
+
+Emergence
+Powstanie stabilnego obiektu informacyjnego.
+Jak „commit”, który jest już nieodwracalny.
+
+T → I → M → I(t) → R → E
+T — Topology
+Ustalamy, gdzie w strukturze umieścić sygnał.
+
+I — Information
+Wyciągamy surową treść.
+
+M — Modality
+Rozpoznajemy, jakiego typu jest sygnał.
+
+I(t) — Temporal Information
+Rozciągamy to w czasie — patrzymy na zmiany, fazy, rytmy.
+
+R — Resonance
+Sprawdzamy, czy stany pasują do siebie.
+
+E — Emergence
+Jeśli tak → powstaje stabilny obiekt.
 
 ---
 
