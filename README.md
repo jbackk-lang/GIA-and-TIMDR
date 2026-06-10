@@ -15,40 +15,27 @@ Information evolves through **six fundamental layers**:
 **T → I → M → I(t) → R → E**  
 
 
-- **T — Topology**: structural space in which information exists.  
-- **I — Information**: raw informational content.  
-- **M — Modality**: configuration or mode of information.  
-- **I(t) — Temporal Information**: information extended across time; phase‑dependent.  
-- **R — Resonance**: stability threshold where information aligns with itself.  
-- **E — Emergence**: a new, stable informational object or structure.  
+## Mapping to Physical Interpretation (Twist Topology)
+
+TIMDR corresponds directly to the physical twist–relation–information structure:
+
+- **T – Momentum** (|∇I|)
+- **I – Process** (smoothed momentum)
+- **M – Twist** (gradient orientation field)
+- **I(t) – Relation + Time**  
+  - Laplacian of twist  
+  - temporal information trace  
+- **R – Stabilization**  
+  - resonance  
+  - interference grid  
+- **E – Emergence**  
+  - closure of the double Möbius (M²)
+
+This makes the TIMDR pipeline isomorphic to the physical topology of information flow.
 
 
 A system becomes stable only after completing a **double Möbius cycle (M²)**.  
 
-Mapping to Physical Interpretation (Twist Topology)
-TIMDR corresponds directly to the physical twist–relation–information structure:
-
-T – Momentum (|∇I|)
-
-I – Process (smoothed momentum)
-
-M – Twist (gradient orientation field)
-
-I(t) – Relation + Time
-
-Laplacian of twist
-
-temporal information trace
-
-R – Stabilization
-
-resonance
-
-interference grid
-
-E – Emergence
-
-closure of the double Möbius (M²)
 
 This makes the TIMDR pipeline isomorphic to the physical topology of information flow.
 ---
@@ -132,7 +119,16 @@ These values correspond to **stable informational states**.
 
 /diagrams
     pipeline_ascii.txt
+
+
 ```
+## Connection to Observations
+
+Interference grids visible in astronomical images (e.g., GALEX, HST) match the double Möbius (M²) structure predicted by TIMDR.  
+The central field point, quadrant-like regions, and stable relational nodes correspond to twist–relation interactions encoded in the model.
+
+---
+
 dopisek
 ---
 Najważniejsze pojęcia (inżyniersko)
