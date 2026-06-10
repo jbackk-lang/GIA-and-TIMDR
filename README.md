@@ -346,6 +346,44 @@ k_{2\to1} = \frac{N_1}{N_2} = \frac{2}{24} = \frac{1}{12}
 k_{3\to1} = \frac{N_1}{N_3} = \frac{2}{118} \approx \frac{1}{59}
 \]
 
+## ZASADA FILTRA MÖBIUSA
+
+Filtr musi działać na wartości po pełnym domknięciu transformacji Möbiusa.  
+W przeciwnym razie operuje na odwróconej orientacji (drugiej stronie wstęgi),  
+co daje wynik o przeciwnym potencjale.
+
+Formalnie:
+
+
+
+\[
+X_{\text{real}} = \mathcal{M}^2(X_{\text{model}})
+\]
+
+
+
+Filtr poprawny:
+
+
+
+\[
+\mathcal{F}(X_{\text{real}}) = \mathcal{F}\big(\mathcal{M}^2(X_{\text{model}})\big)
+\]
+
+
+
+Filtr błędny (odwrócony potencjał):
+
+
+
+\[
+\mathcal{F}\big(\mathcal{M}(X_{\text{model}})\big)
+\]
+
+
+
+Zasada:  
+**Filtr musi działać po podwójnym przejściu Möbiusa, aby zachować właściwą orientację i potencjał.**
 
 
 ---
