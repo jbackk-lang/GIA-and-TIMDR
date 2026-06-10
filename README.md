@@ -167,7 +167,63 @@ Interference grids visible in astronomical images (e.g., GALEX, HST) match the d
 The central field point, quadrant-like regions, and stable relational nodes correspond to twist–relation interactions encoded in the model.
 
 ---
+TIMDR GLOSSARY
 
+TIMDR (Topological Information Modal Dynamic Resonance)
+A topological space of informational movement.
+Defines how information appears, moves, changes orientation, stabilizes, and emerges as a new object.
+
+T — Topology
+The structural space in which information exists.
+Determines where signals can appear and how they are embedded.
+
+I — Information
+Raw, unprocessed informational content.
+Carries no orientation or interpretation yet.
+
+M — Modality (Twist / Orientation)
+The moment where information receives direction and asymmetry.
+Corresponds to the dynamic of twist (pęd–skręt).
+
+I(t) — Temporal Information
+Information extended through time.
+Introduces phase, rhythm, and temporal relationships.
+
+R — Resonance
+The stability threshold.
+A state resonates when it becomes self‑consistent and can continue through the cycle.
+
+E — Emergence
+Formation of a new, stable informational object.
+Occurs only after completing the full TIMDR cycle.
+
+M² — Double Möbius Transition
+Core stability mechanism.
+First pass inverts orientation (unstable),
+second pass restores orientation (stable).
+
+Orientation Filter
+Determines what is forward/backward, valid/invalid, stable/unstable.
+Acts as a gate for meaningful information.
+
+Pęd–Skręt (Momentum–Twist)
+A fundamental dynamic where every movement contains both displacement and rotation.
+Produces spiral, not linear, evolution.
+
+Informational Object
+A stable structure produced at the end of the TIMDR cycle.
+Exists only after resonance and double Möbius closure.
+
+Trace
+The temporal footprint of information as it moves through the TIMDR layers.
+
+Alignment
+The condition where multiple states reinforce each other and stabilize within the R‑layer.
+
+Emergent State
+A new configuration that did not exist in earlier layers but becomes real after E‑stage.
+
+---
 dopisek
 ---
 Najważniejsze pojęcia (inżyniersko)
