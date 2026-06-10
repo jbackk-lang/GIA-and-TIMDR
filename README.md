@@ -8,36 +8,75 @@ It is built on a **six‑layer pipeline** and a **double‑Möbius stability rul
 
 
 ---
-
+Main Figure (Topological Information Modal Dynamic Resonance)
 ## 1. Core Concept
 
-Information evolves through **six fundamental layers**:  
-**T → I → M → I(t) → R → E**  
+TIMDR is a topological space of informational movement.
+Every signal passes through six transformation layers:
 
+T → I → M → I(t) → R → E
 
-## Mapping to Physical Interpretation (Twist Topology)
+TIMDR is not a mathematical theory.
+It is a map of orientation that defines:
 
-TIMDR corresponds directly to the physical twist–relation–information structure:
+where information exists,
 
-- **T – Momentum** (|∇I|)
-- **I – Process** (smoothed momentum)
-- **M – Twist** (gradient orientation field)
-- **I(t) – Relation + Time**  
-  - Laplacian of twist  
-  - temporal information trace  
-- **R – Stabilization**  
-  - resonance  
-  - interference grid  
-- **E – Emergence**  
-  - closure of the double Möbius (M²)
+how it moves,
 
-This makes the TIMDR pipeline isomorphic to the physical topology of information flow.
+how its orientation changes,
 
+when it becomes stable,
 
-A system becomes stable only after completing a **double Möbius cycle (M²)**.  
+when it can emerge as a new object.
 
+TIMDR is a model of motion, not a set of equations.
 
-This makes the TIMDR pipeline isomorphic to the physical topology of information flow.
+1. T — Topology (Space)
+The foundational layer.
+Defines where information can appear and how it is embedded in structure.
+This is the “board” on which all dynamics occur.
+
+2. I — Information (Raw Content)
+Unprocessed information with no direction or interpretation.
+The “material” that will be transformed.
+
+3. M — Modality (Twist / Orientation)
+The key moment where information receives orientation.
+This corresponds to the moment of twist — the pęd–skręt dynamic.
+It introduces asymmetry and direction.
+
+4. I(t) — Temporal Information (Time Layer)
+Information stretched across time.
+This layer introduces:
+
+phase,
+
+rhythm,
+
+change,
+
+relations between states.
+
+5. R — Resonance (Stability Threshold)
+The point where information becomes self‑consistent.
+Resonance acts as a validation filter:
+if a state does not resonate, it cannot proceed.
+
+6. E — Emergence (New Object)
+The final stage: a stable informational object is formed.
+This corresponds to the closure of the double Möbius (M²).
+
+M² — Core Stability Mechanism
+TIMDR requires a double Möbius transition:
+
+first pass → orientation is inverted (unstable),
+
+second pass → orientation is restored (stable).
+
+This is the fundamental stability rule of the model.
+
+Summary (one sentence)
+TIMDR is a cyclic transformation system where information passes through space, content, twist, time, resonance, and finally emerges as a stable object — only after completing a double Möbius transition.
 ---
 
 ## 2. The Six Layers (expanded)
