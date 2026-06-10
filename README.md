@@ -22,20 +22,35 @@ Information evolves through **six fundamental layers**:
 - **R — Resonance**: stability threshold where information aligns with itself.  
 - **E — Emergence**: a new, stable informational object or structure.  
 
-„Odwzorowanie fizyczne (skręt)” i wpisz:
-
-T: pęd (|∇I|)
-I: proces (wygładzony pęd)
-M: skręt (kąt gradientu)
-I(t): relacja + czas (Laplasjan skrętu, ślad w czasie)
-R: stabilizacja skrętu (rezonans, siatka)
-E: emergencja (zamknięcie podwójnego Möbiusa)
-Each layer transforms the previous one.  
-
 
 A system becomes stable only after completing a **double Möbius cycle (M²)**.  
 
+Mapping to Physical Interpretation (Twist Topology)
+TIMDR corresponds directly to the physical twist–relation–information structure:
 
+T – Momentum (|∇I|)
+
+I – Process (smoothed momentum)
+
+M – Twist (gradient orientation field)
+
+I(t) – Relation + Time
+
+Laplacian of twist
+
+temporal information trace
+
+R – Stabilization
+
+resonance
+
+interference grid
+
+E – Emergence
+
+closure of the double Möbius (M²)
+
+This makes the TIMDR pipeline isomorphic to the physical topology of information flow.
 ---
 
 ## 2. The Six Layers (expanded)
