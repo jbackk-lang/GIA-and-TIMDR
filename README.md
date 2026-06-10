@@ -15,7 +15,27 @@ This project is archived and citable via Zenodo:
 ](https://doi.org/10.5281/zenodo.20615173)
 
 ---
+## ZASADA MÖBIUSA — Podwójne przeliczenie
 
+Aby otrzymać wartości fizycznie realne,  
+wielkości modelowe muszą zostać **dwukrotnie** przeliczone przez skalę Möbiusa.
+
+Jeśli \(X_{\text{model}}\) jest wartością modelową,  
+a \(\mathcal{M}(\cdot)\) jest przekształceniem Möbiusa,  
+to wartość realna wynosi:
+
+
+
+\[
+X_{\text{real}} = \mathcal{M}\big(\mathcal{M}(X_{\text{model}})\big)
+\]
+
+
+
+Zasada:  
+**podwójne przeliczenie jest konieczne do przejścia z poziomu struktury do poziomu materii.**
+
+---
 ## 1. What is TIMDR?
 
 TIMDR is a multi‑layer model describing how structure, information and
