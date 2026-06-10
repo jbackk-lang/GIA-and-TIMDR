@@ -1,80 +1,97 @@
-# TIMDR — Topological Information Modal Dynamic Resonance  
+# TIMDR  
+### Topological Information Modal Dynamic Resonance  
 ### Unified Model of Information Flow, Stability and Resonance  
 **Version 2.1 — Stable**
 
-TIMDR is a topological model describing how information moves, transforms, stabilizes and generates emergent structure.  
-It is based on a six‑layer pipeline and a Möbius‑based stability rule (M²).
+TIMDR is a topological model describing **how information moves, transforms, stabilizes and generates emergent structure**.  
+It is built on a **six‑layer pipeline** and a **double‑Möbius stability rule (M²)**.  
+
 
 ---
 
 ## 1. Core Concept
 
-Information evolves through six fundamental layers:
-
+Information evolves through **six fundamental layers**:  
 **T → I → M → I(t) → R → E**  
-**Topology → Information → Modality → Temporal Information → Resonance → Emergence**
+
+
+- **T — Topology**: structural space in which information exists.  
+- **I — Information**: raw informational content.  
+- **M — Modality**: configuration or mode of information.  
+- **I(t) — Temporal Information**: information extended across time; phase‑dependent.  
+- **R — Resonance**: stability threshold where information aligns with itself.  
+- **E — Emergence**: a new, stable informational object or structure.  
+
 
 Each layer transforms the previous one.  
-A system becomes stable only after completing a **double Möbius cycle (M²)**.
+
+
+A system becomes stable only after completing a **double Möbius cycle (M²)**.  
+
 
 ---
 
-## 2. The Six Layers
+## 2. The Six Layers (expanded)
 
 ### **T — Topology**  
-Structural space in which information exists.
+The structural space in which information exists.  
+
 
 ### **I — Information**  
-Raw informational content.
+Raw informational content.  
+
 
 ### **M — Modality**  
-Configuration or mode of information.
+Configuration or mode of information.  
+
 
 ### **I(t) — Temporal Information**  
-Information extended across time; phase‑dependent.
+Information extended across time; phase‑dependent.  
+
 
 ### **R — Resonance**  
-Stability threshold where information aligns with itself.
+Stability threshold where information aligns with itself.  
+
 
 ### **E — Emergence**  
-A new, stable informational object or structure.
+A new, stable informational object or structure.  
 
-Pipeline:
-```
-T → I → M → I(t) → R → E
-```
+
+**Pipeline:**  
+**T → I → M → I(t) → R → E**  
+
 
 ---
 
 ## 3. Möbius Dynamics (M² Stability Rule)
 
-TIMDR uses a **triple Möbius loop**:
+TIMDR uses a **triple Möbius loop**:  
+**Loop 1 → Loop 2 → Loop 3 → Closure**  
 
-```
-Loop 1 → Loop 2 → Loop 3 → Closure
-```
 
-- **Single Möbius pass** → orientation flips → unstable  
-- **Double Möbius pass (M²)** → orientation restored → stable  
+- A **single Möbius pass** flips orientation → unstable  
+- A **double Möbius pass (M²)** restores orientation → stable  
 
-This is the core stability rule of the model.
+This is the **core stability rule** of the model.  
+
 
 ---
 
 ## 4. Resonance Structure (2 → 24 → 118)
 
-TIMDR defines three resonance scales:
+TIMDR defines **three resonance scales**:  
+
 
 - **2** — binary base  
 - **24** — harmonic cycle  
 - **118** — full resonance spectrum  
 
-Reduction coefficients:
-
+**Reduction coefficients:**  
 - **1/12** — harmonic compression  
 - **1/59** — deep‑structure compression  
 
-These values correspond to stable informational states.
+These values correspond to **stable informational states**.  
+
 
 ---
 
@@ -93,3 +110,11 @@ These values correspond to stable informational states.
 
 /diagrams
     pipeline_ascii.txt
+```
+
+
+---
+
+## 6. License
+
+MIT License.
