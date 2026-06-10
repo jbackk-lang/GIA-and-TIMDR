@@ -223,6 +223,32 @@ The condition where multiple states reinforce each other and stabilize within th
 Emergent State
 A new configuration that did not exist in earlier layers but becomes real after E‑stage.
 
+What TIMDR actually does
+
+TIMDR is not a classification system or a theory.
+It is a filter of reality:
+a way to decide whether a signal, idea, state or object is real enough to exist.
+
+Why the cycle matters
+The six layers (T → I → M → I(t) → R → E) are not steps.
+They are tests.
+If a signal fails any layer, it does not continue.
+Only signals that survive the full cycle become stable objects.
+
+Why the double Möbius is required
+The world is not stable after one transformation.
+Orientation must flip twice to reveal what is true and what is noise.
+M² is the minimal condition for stability.
+
+What emerges
+An informational object is not a “thing”.
+It is a state that cannot be undone without breaking its own structure.
+This is the definition of emergence in TIMDR.
+
+Why TIMDR is useful
+TIMDR gives a universal rule:
+If something cannot survive the full cycle, it is not real — it is only a temporary configuration.
+
 ---
 dopisek
 ---
