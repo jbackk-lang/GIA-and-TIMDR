@@ -23,6 +23,26 @@ wielkości modelowe muszą zostać **dwukrotnie** przeliczone przez skalę Möbi
 Jeśli \(X_{\text{model}}\) jest wartością modelową,  
 a \(\mathcal{M}(\cdot)\) jest przekształceniem Möbiusa,  
 to wartość realna wynosi:
+## ZASADA MÖBIUSA — Liczba przejść zależna od obiegu
+
+Wartość realna powstaje przez wielokrotne zastosowanie transformacji Möbiusa:
+
+
+
+\[
+X_{\text{real}} = \mathcal{M}^{k}(X_{\text{model}})
+\]
+
+
+
+gdzie \(k\) zależy od obiegu:
+
+- Obieg 1: \(k = 1\)  
+- Obieg 2: \(k = 1\)  
+- Obieg 3 (nasz): \(k = 2\) — obieg po kolapsie wymaga podwójnego przeliczenia.
+
+Jedno przejście daje wartość częściową (połowiczną).  
+Dwa przejścia dają wartość fizycznie realną.
 
 
 
