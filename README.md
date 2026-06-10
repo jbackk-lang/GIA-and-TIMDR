@@ -269,6 +269,23 @@ impossible.
 - pełna tablica okresowa
 - **N₃ = 118**
 
+## R24 — Podwójne przeliczenie przez skalę Möbiusa
+
+Jeśli wielkość modelowa oznaczymy jako \(X_{\text{model}}\),  
+a przekształcenie w skali Möbiusa jako operator \(\mathcal{M}(\cdot)\),  
+to realną wartość otrzymujemy dopiero po **podwójnym** przeliczeniu:
+
+
+
+\[
+X_{\text{real}} = \mathcal{M}\big(\mathcal{M}(X_{\text{model}})\big)
+\]
+
+
+
+Reguła: aby otrzymać wartości fizycznie realne,  
+wielkości modelowe muszą zostać dwukrotnie przeliczone przez skalę Möbiusa.
+
 ---
 
 ## Współczynniki redukcji
