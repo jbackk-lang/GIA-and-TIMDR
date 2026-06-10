@@ -22,7 +22,14 @@ Information evolves through **six fundamental layers**:
 - **R — Resonance**: stability threshold where information aligns with itself.  
 - **E — Emergence**: a new, stable informational object or structure.  
 
+„Odwzorowanie fizyczne (skręt)” i wpisz:
 
+T: pęd (|∇I|)
+I: proces (wygładzony pęd)
+M: skręt (kąt gradientu)
+I(t): relacja + czas (Laplasjan skrętu, ślad w czasie)
+R: stabilizacja skrętu (rezonans, siatka)
+E: emergencja (zamknięcie podwójnego Möbiusa)
 Each layer transforms the previous one.  
 
 
