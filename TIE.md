@@ -102,13 +102,6 @@ TIE describes:
 TIMDR remains a structural model.
 TIE is its human interpretation layer.
 
-# TIMDR – Warstwa Interpretacji Egzystencjalnej (TIE)
-
-TIE opisuje, jak ludzki umysł reaguje na strukturę TIMDR w sytuacjach kolapsu
-psychicznego, społecznego lub informacyjnego. 
-Nie jest to część fizycznego modelu. 
-Jest to warstwa interpretacyjna.
-
 ---
 ---
 # Universe Structure — Deductive Summary (TIMDR Context)
