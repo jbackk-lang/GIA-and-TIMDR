@@ -78,7 +78,12 @@ function normalize(arr) {
 
 function analyze() {
     const text = document.getElementById("inputText").value;
-    const sentences = splitSentences(text);
+    const sentences = splitSentences(text).filter(s => s.trim().length > 0);
+
+    if (sentences.length === 0) {
+        document.getElementById("results").innerHTML = "<p>Brak tekstu do analizy.</p>";
+        return;
+    }
 
     const lam = sentences.map(lambdaScore);
     const tau = sentences.map(tauScore);
@@ -105,7 +110,9 @@ function analyze() {
 
     let html = "<h3>Wyniki:</h3>";
     sentences.forEach((s,i)=>{
-        html += `<p>${twists.includes(i) ? "<span class='twist'>[J] </span>" : ""}${s}</p>`;
+        const num = i + 1;
+        const mark = twists.includes(i) ? "<span class='twist'>[J]</span> " : "";
+        html += `<p><b>${num}.</b> ${mark}${s}</p>`;
     });
     document.getElementById("results").innerHTML = html;
 
