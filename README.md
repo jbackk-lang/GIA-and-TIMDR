@@ -260,6 +260,11 @@ Dodatkowo wykrywa punkty skrętu (J), czyli miejsca gwałtownej zmiany struktury
 
 ## Uruchomienie
 
+python run_example.py
+
+
+Wynik: wykres Λ, τ, ρ + zaznaczone punkty J.
+
 
 ---
 dopisek
