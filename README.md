@@ -314,6 +314,9 @@ E — Emergence
 Jeśli tak → powstaje stabilny obiekt.
 
 ---
+TIMDR w wersji mechanicznej https://www.youtube.com/shorts/kKzygIB0k38
+
+---
 
 ## 6. License
 
