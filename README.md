@@ -1,3 +1,6 @@
+# GIA
+is a topological information framework describing Λ–τ–ρ dynamics and J‑points in complex systems.
+
 # TIMDR  
 ### Topological Information Modal Dynamic Resonance  
 ### Unified Model of Information Flow, Stability and Resonance  
