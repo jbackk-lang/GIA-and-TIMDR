@@ -53,6 +53,8 @@ textarea { width: 100%; height: 150px; }
 
 <script>
 
+let timdrChart = null;  // globalny wykres
+
 function splitSentences(text) {
     return text.split(/(?<=[.!?])\s+/);
 }
@@ -82,6 +84,10 @@ function analyze() {
 
     if (sentences.length === 0) {
         document.getElementById("results").innerHTML = "<p>Brak tekstu do analizy.</p>";
+        if (timdrChart) {
+            timdrChart.destroy();
+            timdrChart = null;
+        }
         return;
     }
 
@@ -116,17 +122,27 @@ function analyze() {
     });
     document.getElementById("results").innerHTML = html;
 
-    new Chart(document.getElementById("chart"), {
-        type: 'line',
-        data: {
-            labels: sentences.map((_,i)=>"Zdanie "+(i+1)),
-            datasets: [
-                { label: "Λ", data: lamN, borderColor: "blue" },
-                { label: "τ", data: tauN, borderColor: "green" },
-                { label: "ρ", data: rhoN, borderColor: "orange" }
-            ]
-        }
-    });
+    const ctx = document.getElementById("chart");
+
+    if (timdrChart) {
+        timdrChart.data.labels = sentences.map((_,i)=>"Zdanie "+(i+1));
+        timdrChart.data.datasets[0].data = lamN;
+        timdrChart.data.datasets[1].data = tauN;
+        timdrChart.data.datasets[2].data = rhoN;
+        timdrChart.update();
+    } else {
+        timdrChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: sentences.map((_,i)=>"Zdanie "+(i+1)),
+                datasets: [
+                    { label: "Λ", data: lamN, borderColor: "blue" },
+                    { label: "τ", data: tauN, borderColor: "green" },
+                    { label: "ρ", data: rhoN, borderColor: "orange" }
+                ]
+            }
+        });
+    }
 }
 
 async function fetchMarkdown(path) {
