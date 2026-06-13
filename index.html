@@ -88,13 +88,43 @@ function analyze() {
     const tauN = normalize(tau);
     const rhoN = normalize(rho);
 
+    // Pobranie ustawień
+    const thr = parseFloat(document.getElementById("thr").value);
+    const wLam = parseFloat(document.getElementById("wLam").value);
+    const wTau = parseFloat(document.getElementById("wTau").value);
+    const wRho = parseFloat(document.getElementById("wRho").value);
+
+    // Wykrywanie skrętów J
     const twists = [];
     for (let i=1; i<sentences.length; i++) {
-        const delta = Math.abs(lamN[i]-lamN[i-1]) +
-                      Math.abs(tauN[i]-tauN[i-1]) +
-                      Math.abs(rhoN[i]-rhoN[i-1]);
-        if (delta > 0.4) twists.push(i);
+        const delta =
+            Math.abs(lamN[i] - lamN[i-1]) * wLam +
+            Math.abs(tauN[i] - tauN[i-1]) * wTau +
+            Math.abs(rhoN[i] - rhoN[i-1]) * wRho;
+
+        if (delta > thr) twists.push(i);
     }
+
+    // Wyświetlanie tekstu
+    let html = "<h3>Wyniki:</h3>";
+    sentences.forEach((s,i)=>{
+        html += `<p>${twists.includes(i) ? "<span class='twist'>[J] </span>" : ""}${s}</p>`;
+    });
+    document.getElementById("results").innerHTML = html;
+
+    // Wykres
+    new Chart(document.getElementById("chart"), {
+        type: 'line',
+        data: {
+            labels: sentences.map((_,i)=>"Zdanie "+(i+1)),
+            datasets: [
+                { label: "Λ", data: lamN, borderColor: "blue" },
+                { label: "τ", data: tauN, borderColor: "green" },
+                { label: "ρ", data: rhoN, borderColor: "orange" }
+            ]
+        }
+    });
+}
 
     let html = "<h3>Wyniki:</h3>";
     sentences.forEach((s,i)=>{
