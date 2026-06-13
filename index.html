@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>TIMDR Visualizer</title>
+<style>
+body { font-family: Arial; margin: 40px; }
+textarea { width: 100%; height: 150px; }
+#chart { width: 100%; height: 300px; margin-top: 20px; }
+.twist { color: red; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<h2>TIMDR Visualizer — wersja webowa</h2>
+
+<textarea id="inputText" placeholder="Wklej tekst do analizy..."></textarea>
+<button onclick="analyze()">Analizuj</button>
+
+<div id="results"></div>
+<canvas id="chart"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+
+function splitSentences(text) {
+    return text.split(/(?<=[.!?])\s+/);
+}
+
+function lambdaScore(s) {
+    const logic = ["jeśli","bo","ponieważ","dlatego","gdy","kiedy","ale","jednak"];
+    return logic.reduce((a,w)=>a+(s.toLowerCase().includes(w)?1:0),0);
+}
+
+function tauScore(s) {
+    const time = ["potem","następnie","wcześniej","później","gdy","kiedy"];
+    return time.reduce((a,w)=>a+(s.toLowerCase().includes(w)?1:0),0);
+}
+
+function rhoScore(s) {
+    return s.split(" ").filter(w => w.length > 7).length;
+}
+
+function normalize(arr) {
+    const max = Math.max(...arr);
+    return max === 0 ? arr : arr.map(v => v/max);
+}
+
+function analyze() {
+    const text = document.getElementById("inputText").value;
+    const sentences = splitSentences(text);
+
+    const lam = sentences.map(lambdaScore);
+    const tau = sentences.map(tauScore);
+    const rho = sentences.map(rhoScore);
+
+    const lamN = normalize(lam);
+    const tauN = normalize(tau);
+    const rhoN = normalize(rho);
+
+    const twists = [];
+    for (let i=1; i<sentences.length; i++) {
+        const delta = Math.abs(lamN[i]-lamN[i-1]) +
+                      Math.abs(tauN[i]-tauN[i-1]) +
+                      Math.abs(rhoN[i]-rhoN[i-1]);
+        if (delta > 0.4) twists.push(i);
+    }
+
+    let html = "<h3>Wyniki:</h3>";
+    sentences.forEach((s,i)=>{
+        html += `<p>${twists.includes(i) ? "<span class='twist'>[J] </span>" : ""}${s}</p>`;
+    });
+    document.getElementById("results").innerHTML = html;
+
+    new Chart(document.getElementById("chart"), {
+        type: 'line',
+        data: {
+            labels: sentences.map((_,i)=>"Zdanie "+(i+1)),
+            datasets: [
+                { label: "Λ", data: lamN, borderColor: "blue" },
+                { label: "τ", data: tauN, borderColor: "green" },
+                { label: "ρ", data: rhoN, borderColor: "orange" }
+            ]
+        }
+    });
+}
+
+</script>
+</body>
+</html>
