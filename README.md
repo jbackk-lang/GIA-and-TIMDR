@@ -321,6 +321,26 @@ TIMDR w wersji mechanicznej https://www.youtube.com/shorts/kKzygIB0k38
 
 ---
 
-## 6. License
+## 6. Documentation
+
+For a full map of all documents, models, and tools in this repository, see [docs/INDEX.md](docs/INDEX.md).
+
+### Formal Models
+
+| Model | Description |
+|-------|-------------|
+| [Model J](Model%20J%20%E2%80%94%20Formalny%20model%20matematyczny%20TIMDR) | Formal mathematical model of TIMDR |
+| [Model O](MODEL%20O%20%E2%80%94%20Dynamiczny%20model%20TIMDR) | Dynamic model |
+| [Model R](MODEL%20R%20%E2%80%94%20Energetyczny%20model%20TIMDR%20(pola,%20g%C4%99sto%C5%9Bci,%20przep%C5%82ywy) | Energy model (fields, densities, flows) |
+| [N Operators](N%20%E2%80%94%20Operatory%20matematyczne%20TIMDR) | Mathematical operators |
+| [Category Theory](TIMDR%20jako%20kategoria%20matematyczna%20(funktory,%20morfizmy,%20obiekty)) | TIMDR as a mathematical category |
+
+### Applied Models
+
+See [docs/theory/](docs/theory/) for domain-specific applications: cosmology, biology, technology, perception, AI, language, music, quantum theory, and more.
+
+---
+
+## 7. License
 
 MIT License.
