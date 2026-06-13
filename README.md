@@ -249,6 +249,18 @@ Why TIMDR is useful
 TIMDR gives a universal rule:
 If something cannot survive the full cycle, it is not real — it is only a temporary configuration.
 
+# TIMDR Visualizer
+
+Narzędzie pokazujące strukturę informacji w trzech warstwach TIMDR:
+- Λ — warstwa logiczna
+- τ — warstwa sekwencyjna
+- ρ — gęstość informacyjna
+
+Dodatkowo wykrywa punkty skrętu (J), czyli miejsca gwałtownej zmiany struktury.
+
+## Uruchomienie
+
+
 ---
 dopisek
 ---
