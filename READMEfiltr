@@ -1,0 +1,84 @@
+XOR( cyfra_√2 , cyfra_√3 )
+
+Kod
+
+- jeśli różne → 1  
+- jeśli takie same → 0  
+
+Wynik pokazuje różnicę struktur binarnej i trójkowej.
+
+To są „pierwsze z pierwszych”.
+
+Ustalona proporcja jedynek: **2/9**.
+
+---
+
+## 4. Reszta q − π jako sygnatura
+q = 3.146264…  
+π = 3.141592…
+
+Różnica:
+q − π = 0.004671716…
+
+Kod
+
+Cyfry tej reszty (4‑6‑7‑1‑7‑1‑6) odpowiadają miejscom, gdzie XOR ujawnia asymetrię.
+
+To jest reszta ρ – defekt struktury.
+
+---
+
+## 5. Möbiusy i filtr
+M1 = 2 – czysty Möbius (pierwszy)  
+M2 = 2q/π = 2.002974… – Möbius po filtrze
+
+Różnica:
+M2 − M1 = 0.002974…
+
+Kod
+
+To jest ta sama reszta ρ, co w q − π.
+
+---
+
+## 6. Skale rezonansowe 2 → 24 → 118
+Skale wynikają z Möbiusów:
+
+- 2 – pierwszy Möbius  
+- 24 – 2 × (4 × 3)  
+- 118 – 2 × 59  
+
+59 jest liczbą pierwszą i punktem J (środkowy węzeł skrętu).
+
+---
+
+## 7. Filtr widmowy (CMB)
+Stosunek pików CMB:
+
+540 / 220 = 2.4545…
+(540/220) / √2 ≈ √3
+
+Kod
+
+To jest ta sama geometria binarna/trójkowa co w √2 i √3.
+
+---
+
+## 8. Interpretacja
+Filtr na liczby pierwsze:
+
+- wybiera pozycje pierwsze (indeksy),
+- porównuje struktury √2 i √3,
+- ujawnia resztę ρ,
+- ta sama reszta pojawia się w Möbiusie, q−π, CMB i skalach rezonansowych.
+
+To jest jeden mechanizm widoczny w wielu skalach.
+
+---
+
+## 9. Status naukowy
+- Matematyka (gęstości, XOR, Möbiusy) – **pewne**  
+- Zbieżności z widmem kosmosu – **obserwacje wymagające wyprowadzenia**  
+- Interpretacje TRM – **model strukturalny**
+
+Ten plik łączy wszystkie elementy w j
