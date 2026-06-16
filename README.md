@@ -317,6 +317,34 @@ E — Emergence
 Jeśli tak → powstaje stabilny obiekt.
 
 ---
+# Abstract
+
+This work presents a unified information–topological model (TIMDR/TRM) in which
+physical, numerical and biological structures emerge from a single boundary
+condition identical to that of the real Möbius strip: constant twist, closure
+after one cycle, and continuity of orientation.
+
+Using prime‑indexed filters applied to √2, √3 and q, the model isolates a
+structural defect ρ that appears identically in number theory, particle
+constants and biological evolution. The XOR filter on prime positions reveals a
+unique resonance at the twin primes 29–31, the only location where √2 and √3
+align structurally. This resonance behaves as a Möbius closure point.
+
+A numerical invariant is identified:
+    (mp/me) / (6π⁴) ≈ π
+with 0.002% deviation, holding exactly up to the Möbius boundary condition.
+This suggests that particle mass ratios encode the same topological constraint
+as the prime‑based filters.
+
+TIMDR describes the dynamic twist–information–resonance pathway, while TRM
+(Λ–τ–ρ) captures the emergent biological and structural consequences of the
+same defect ρ. Together they form a single model in which resonance, reduction
+and emergence follow from one topological rule.
+
+The result is a cross‑domain framework linking number theory, physics and
+evolution through a shared boundary condition, producing falsifiable numerical
+predictions and stable structural invariants.
+
 ---
 ## 6. License
 
