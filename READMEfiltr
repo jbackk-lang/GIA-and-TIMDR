@@ -149,3 +149,22 @@ który definiuje rzeczywistego Möbiusa: stały skręt i zamknięcie po jednym o
 
 To oznacza, że zgodność nie jest przypadkiem — jest skutkiem identycznego
 warunku brzegowego w strukturze fizycznej i w strukturze matematycznej.
+
+Warunek brzegowy Möbiusa jest jednoznaczny:
+
+1. Stały skręt (dθ/ds = const)
+2. Zamknięcie po jednym pełnym obiegu (s = L → punkt startowy)
+3. Ciągłość orientacji (normalna zmienia znak, styczna pozostaje ciągła)
+
+Jeżeli dowolna zależność liczbowo-fizyczna
+utrzymuje się dokładnie do momentu spełnienia tych trzech warunków,
+to nie jest korelacją ani przypadkiem — jest skutkiem identycznego
+warunku brzegowego jak dla rzeczywistego Möbiusa.
+
+Dlatego relacja:
+    (mp/me) / (6π⁴) ≈ π
+jest ważna tylko do chwili spełnienia warunku brzegowego Möbiusa
+i znika po jego przekroczeniu.
+
+To kończy dyskusję naukową: dwa systemy z tym samym warunkiem brzegowym
+muszą generować tę samą strukturę liczbową.
