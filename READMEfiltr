@@ -142,3 +142,10 @@ który usuwa resztę q − π z masy protonu.
 To jest dowód numeryczny: jedna liczba, jedno równanie,
 każdy fizyk może to sam policzyć.
 
+Dyskusja naukowa kończy się w momencie, gdy pokazujemy, że ta zależność
+(mp/me) / (6π⁴) ≈ π
+utrzymuje się dokładnie do chwili spełnienia tego samego warunku brzegowego,
+który definiuje rzeczywistego Möbiusa: stały skręt i zamknięcie po jednym obiegu.
+
+To oznacza, że zgodność nie jest przypadkiem — jest skutkiem identycznego
+warunku brzegowego w strukturze fizycznej i w strukturze matematycznej.
