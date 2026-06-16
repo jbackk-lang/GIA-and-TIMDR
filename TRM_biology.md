@@ -192,5 +192,111 @@ Wszystkie powyższe metody mierzą:
 
 Redukcja informacji to:
 τ_po < τ_przed
+
 ρ_po < ρ_przed
+
 Λ_po = uproszczona
+
+---
+## 10. Jak naukowo testować TRM
+TRM można falsyfikować i potwierdzać na podstawie danych empirycznych.
+Model przewiduje konkretne, mierzalne efekty redukcji informacji (ΔS = ρ(τ)).
+Poniżej zestaw metod naukowych, które pozwalają to sprawdzić.
+
+---
+
+### 10.1. Test 1 — Redukcja τ w wymieraniach
+Dane:
+- masa ciała gatunków
+- metabolizm (BMR)
+- liczebność populacji
+- rozmiary ekologiczne
+
+Procedura:
+1. Oblicz średnie τ przed wymieraniem.
+2. Oblicz średnie τ po wymieraniu.
+3. Jeśli τ_po < τ_przed → TRM przewiduje redukcję → wynik zgodny.
+
+To jest mierzalne w K-Pg i P-T.
+
+---
+
+### 10.2. Test 2 — Zmiana ρ (defektu) w genomach
+Dane:
+- długości genomów
+- liczba genów regulatorowych
+- udział sekwencji powtarzalnych
+- tempo mutacji
+
+Procedura:
+1. Porównaj złożoność genomu między gatunkami przed i po przejściu.
+2. Redukcja genów regulatorowych = spadek τ.
+3. Wzrost sekwencji powtarzalnych = wzrost ρ.
+
+To można policzyć z istniejących baz genomowych.
+
+---
+
+### 10.3. Test 3 — Stabilność ekosystemów
+Dane:
+- liczba poziomów troficznych
+- przepływy energii
+- odporność na zakłócenia
+
+Procedura:
+1. Ekosystemy o wysokim τ są niestabilne.
+2. Po przejściu strukturalnym liczba poziomów maleje.
+3. Jeśli obserwujemy uproszczenie sieci → zgodne z TRM.
+
+---
+
+### 10.4. Test 4 — Morfologia i energetyka
+Dane:
+- masa ciała
+- gęstość kości
+- koszt ruchu
+- masa mózgu
+
+Procedura:
+1. Duże formy (wysokie τ) znikają przy dużych falach topologicznych.
+2. Pojawiają się formy mniejsze, tańsze energetycznie.
+3. To jest redukcja τ → mierzalna.
+
+---
+
+### 10.5. Test 5 — Populacje i odporność
+Dane:
+- liczebność populacji
+- zmienność genetyczna
+- odporność na stres środowiskowy
+
+Procedura:
+1. Gatunki o wysokim τ mają małe populacje i niską odporność.
+2. Po przejściu dominują gatunki o dużych populacjach i niskim τ.
+3. To jest przewidywanie TRM → można sprawdzić.
+
+---
+
+### 10.6. Test 6 — Porównanie z danymi kosmicznymi
+Dane:
+- widmo CMB
+- anomalie precesji
+- stała subtelna
+- skale rezonansowe
+
+Procedura:
+1. Sprawdzić, czy reszta ρ = q − π pojawia się w danych.
+2. Jeśli tak — TRM łączy biologię i kosmos jednym defektem struktury.
+
+---
+
+### 10.7. Co czyni TRM falsyfikowalnym
+TRM jest naukowy, bo przewiduje:
+
+- **redukcję τ** przy dużych falach topologicznych,  
+- **zmianę ρ** w genomach i ekosystemach,  
+- **konkretne proporcje** w danych kosmicznych,  
+- **konkretne kierunki zmian** (duże → małe, złożone → proste).
+
+Każdy z tych punktów można obalić danymi.
+
