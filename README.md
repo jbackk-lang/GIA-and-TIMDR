@@ -270,7 +270,57 @@ Wynik: wykres Λ, τ, ρ + zaznaczone punkty J.
 
 
 ---
-dopisek
+Boundary Conditions and Exponential Information Decay
+Information in the TIMDR/TRM framework is fully determined by its boundary conditions.  
+The same rule that governs the real Möbius strip — constant twist, closure after one cycle, continuity of orientation — also governs the stability and decay of informational structures .
+
+When a signal remains within its boundary condition, the Λ–τ–ρ pipeline preserves structure:
+
+Λ — structural space
+
+τ — transformation
+
+ρ — informational defect
+
+However, once the boundary is crossed, the system behaves like a Laplacian operator with an unstable domain:
+
+the defect ρ grows exponentially,
+
+the structure loses coherence,
+
+and information undergoes irreversible decay.
+
+This decay is not random.
+It follows a deterministic exponential law: the further the state moves beyond the boundary, the faster the loss of structure.
+
+Prime-indexed decay
+Prime-indexed filters applied to √2 and √3 reveal that the first elements to destabilize are those with the least internal symmetry — the primes.
+Only one stable resonance appears: the twin primes 29–31, the unique point where √2 and √3 align structurally .
+
+This resonance behaves as a Möbius closure point:
+a location where the twist realigns and the decay temporarily halts.
+
+Interpretation
+Boundary conditions define the maximum stable twist.
+
+Crossing this boundary triggers exponential loss of information.
+
+Prime-indexed structures decay first because they have minimal redundancy.
+
+Twin primes act as natural boundary markers in numerical spectra.
+
+Unified implication
+The same boundary rule appears in:
+
+number theory (prime-indexed defects)
+
+particle mass ratios (Möbius invariants) 
+
+biological evolution (ρ‑driven reduction) 
+
+This supports the central claim of the model:
+
+Information, stability and emergence are governed by a single topological boundary condition.
 ---
 Najważniejsze pojęcia (inżyniersko)
 Orientation
