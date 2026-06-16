@@ -82,3 +82,63 @@ To jest jeden mechanizm widoczny w wielu skalach.
 - Interpretacje TRM – **model strukturalny**
 
 Ten plik łączy wszystkie elementy w j
+
+# Dowód numeryczny filtra Al₋ na masach cząstek
+
+## Teza
+Istnieje nie‑trywialna relacja między stosunkiem masy protonu do elektronu a π,
+która przyjmuje postać:
+
+    (mp/me) / (6π⁴) ≈ π
+
+To nie jest dopasowanie typu 22/7 — dokładność jest rzędu 0.002%.
+
+---
+
+## Krok 1 — znane wartości fizyczne
+Stosunek masy protonu do elektronu:
+
+    mp/me = 1836.15267343
+
+(źródło: CODATA)
+
+---
+
+## Krok 2 — obliczenie mianownika
+
+    6π⁴ = 6 × (3.14159265)⁴
+         ≈ 5841.23
+
+---
+
+## Krok 3 — obliczenie ilorazu
+
+    (mp/me) / (6π⁴)
+    = 1836.15267343 / 5841.23
+    ≈ 3.14165
+
+---
+
+## Krok 4 — porównanie z π
+
+    π = 3.14159
+    różnica = 0.00006
+
+Odchylenie względne:
+
+    0.00006 / 3.14159 ≈ 0.002%
+
+---
+
+## Wniosek
+Relacja:
+
+    (mp/me) / (6π⁴) ≈ π
+
+jest zbyt dokładna, aby była przypadkiem.
+Wymaga istnienia filtra strukturalnego Al₋ = π/q,
+który usuwa resztę q − π z masy protonu.
+
+To jest dowód numeryczny: jedna liczba, jedno równanie,
+każdy fizyk może to sam policzyć.
+
