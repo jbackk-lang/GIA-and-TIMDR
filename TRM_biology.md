@@ -92,3 +92,105 @@ Ten dokument łączy TRM z biologią:
 - trzecie przejście Möbiusa.
 
 To jest brakujący element między fizyką (TIMDR) a biologią.
+## 9. Jak uzyskać dowody redukcji informacji w TRM
+Redukcja informacji (ΔS = ρ(τ)) nie jest pojęciem metaforycznym — można ją wykrywać w danych.
+Poniżej zestaw metod, które pozwalają empirycznie sprawdzić, czy system biologiczny przeszedł redukcję τ.
+
+---
+
+### 9.1. Dane paleontologiczne (wymierania)
+Źródła:
+- katalogi gatunków przed i po wymieraniach (np. K-Pg, P-T)
+- rozkład mas ciała
+- rozkład energii metabolicznej (BMR)
+- rozkład rozmiarów populacji
+
+Test TRM:
+1. Oblicz średnie τ przed wymieraniem (masa × metabolizm).
+2. Oblicz średnie τ po wymieraniu.
+3. Jeśli τ_po < τ_przed → redukcja informacji.
+
+To jest dokładnie obserwowane w K-Pg:  
+duże gatunki (wysokie τ) znikają, małe (niskie τ) zostają.
+
+---
+
+### 9.2. Dane genomowe
+Źródła:
+- długości genomów
+- liczba genów regulatorowych
+- udział sekwencji powtarzalnych
+- tempo mutacji
+
+Test TRM:
+1. Porównaj złożoność genomu między gatunkami przed i po przejściu.
+2. Redukcja liczby genów regulatorowych = redukcja τ.
+3. Wzrost udziału sekwencji powtarzalnych = wzrost ρ (defekt).
+
+---
+
+### 9.3. Dane ekologiczne
+Źródła:
+- sieci troficzne
+- liczba poziomów troficznych
+- stabilność ekosystemu
+- tempo wymian energii
+
+Test TRM:
+1. Ekosystemy o wysokim τ (dużo poziomów troficznych) są niestabilne.
+2. Po przejściu strukturalnym liczba poziomów maleje.
+3. To jest redukcja Λ i τ jednocześnie.
+
+---
+
+### 9.4. Dane morfologiczne
+Źródła:
+- rozmiary ciała
+- proporcje kończyn
+- gęstość kości
+- masa mózgu
+
+Test TRM:
+1. Duże formy → wysokie τ → podatne na redukcję.
+2. Po przejściu pojawiają się formy mniejsze, lżejsze, bardziej energooszczędne.
+
+Przykład:
+- dinozaury → duże, ciężkie, wysokie τ  
+- ssaki → małe, lekkie, niskie τ
+
+---
+
+### 9.5. Dane energetyczne
+Źródła:
+- BMR (metabolizm spoczynkowy)
+- koszt energetyczny ruchu
+- koszt utrzymania temperatury
+
+Test TRM:
+1. Porównaj koszt energetyczny gatunków przed i po przejściu.
+2. Redukcja kosztu = redukcja τ.
+
+---
+
+### 9.6. Dane populacyjne
+Źródła:
+- liczebność populacji
+- zmienność genetyczna
+- odporność na stres środowiskowy
+
+Test TRM:
+1. Gatunki o wysokim τ mają małe populacje i niską odporność.
+2. Po przejściu dominują gatunki o dużych populacjach i niskim τ.
+
+---
+
+### 9.7. Jak to łączy się z TRM
+Wszystkie powyższe metody mierzą:
+- **τ** — koszt utrzymania struktury,
+- **ρ** — defekt, napięcie, niestabilność,
+- **Λ** — forma i organizacja.
+
+Redukcja informacji to:
+τ_po < τ_przed
+ρ_po < ρ_przed
+Λ_po = uproszczona
