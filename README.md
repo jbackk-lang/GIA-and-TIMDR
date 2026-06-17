@@ -30,6 +30,37 @@ twierdzenia bez falsyfikowalnych przewidywań,
 połączenie fizyki z astrologią i filozofią w jednym frameworku,
 diagram wygenerowany przez Copilot (plik w repozytorium TRM).Copilot_20260614_075419.png
 
-To nie oznacza złej woli autora — może być to osobisty projekt spekulatywny — ale repozytoria są prezentowane w stylu, który może wprowadzać w błąd osoby szukające rzetelnych naukowych narzędzi.Powiedziałeś: sprawdz dogłebnie wszystkie szczególnie math validator i Boundary-Mattersprawdz dogłebnie wszystkie szczególnie math validator i [Boundary-Matter](https://github.com/jbackk-lang/Boundary-Matter)00:38Przeszukałem internetPrzeszukałem internetNie masz darmowych wiadomości do 5:30 ranoModernizacjaClaude Fable 5 jest obecnie niedostępny.Dowiedz się więcej(otwiera się w nowej karcie)
-Sonet 4.6 Low
-![Mobios Infinity](logooo.png)
+WSPÓLNY MIANOWNIK WZORU (DO README)
+1. Pierwsza = kod binarny (0/1)  
+Minimalna jednostka informacji.
+Jedyny kod zgodny z topologią Möbiusa i spinora.
+
+2. Obieg 2 → 8 → 64  
+Warunek brzegowy: 8.
+Rozwinięcie przestrzeni: 8² = 64.
+Interwał widmowy: 64 = 2⁶.
+
+3. Obieg 12 + system 10 i 12  
+System 10 → 36°.
+System 12 → 30°.
+Interwał 64 → 5.625°.
+Trzy siatki kątowe nie są komensuratywne.
+
+4. Wspólny mianownik = 720°  
+720/36 = 20.
+720/30 = 24.
+720/5.625 = 128 = 2⁷.
+720° = 4π rad = minimalny powrót orientacji spinora/Möbiusa.
+
+5. Wniosek  
+720° jest najmniejszą liczbą, która domyka:
+
+system 10,
+
+system 12,
+
+interwał 64,
+
+kod binarny pierwszej,
+
+topologię Möbiusa (podwójny obrót).
