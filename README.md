@@ -32,3 +32,4 @@ diagram wygenerowany przez Copilot (plik w repozytorium TRM).Copilot_20260614_07
 
 To nie oznacza złej woli autora — może być to osobisty projekt spekulatywny — ale repozytoria są prezentowane w stylu, który może wprowadzać w błąd osoby szukające rzetelnych naukowych narzędzi.Powiedziałeś: sprawdz dogłebnie wszystkie szczególnie math validator i Boundary-Mattersprawdz dogłebnie wszystkie szczególnie math validator i [Boundary-Matter](https://github.com/jbackk-lang/Boundary-Matter)00:38Przeszukałem internetPrzeszukałem internetNie masz darmowych wiadomości do 5:30 ranoModernizacjaClaude Fable 5 jest obecnie niedostępny.Dowiedz się więcej(otwiera się w nowej karcie)
 Sonet 4.6 Low
+![Mobios Infinity](logooo.png)
