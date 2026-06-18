@@ -33,3 +33,5 @@ Projekt w fazie rozwojowej. Struktura repozytorium jest stabilna, treści rozwij
 
 ## Licencja
 MiT
+
+![niskniesk](https://raw.githubusercontent.com/jbackk-lang/GIA-and-TIMDR/main/niskniesk.png)
