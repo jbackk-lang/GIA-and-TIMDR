@@ -1,35 +1,35 @@
-GIA & TIMDR
+# GIA & TIMDR
 General Information Architecture & Topological Information Model of Dynamic Resonance
 
-Repozytorium opisuje model informacji oparty na trzech warstwach:
-Lambda – struktura
-Tau – transformacja
-Rho – rezonans
+GIA i TIMDR to dwie powiązane struktury opisujące:
+- Lambda — strukturę informacji  
+- Tau — transformację informacji  
+- Rho — rezonans i stabilizację informacji  
 
-Model bada sposób, w jaki informacja układa się, zmienia i stabilizuje w systemach złożonych.
+Model bada, jak informacja powstaje, zmienia się i utrzymuje w systemach dynamicznych.
 
-Struktura repozytorium:
+## Struktura repozytorium
 
-theory
-Zawiera opisy koncepcyjne GIA i TIMDR, notatki matematyczne, szkice i wyprowadzenia.
-To warstwa strukturalna (Lambda), fundament całego modelu.
+### theory
+Zawiera podstawy teoretyczne GIA i TIMDR: notatki, szkice, wyprowadzenia, koncepcje.  
+To warstwa **Lambda** — fundament strukturalny.
 
-visualizer
-Zawiera skrypty i narzędzia do wizualizacji obiegów, interwałów i rezonansu.
-Obejmuje eksperymentalne mapy kątowe (36°, 30°, 5.625°, 720°).
-To warstwa dynamiczna (Tau), pokazująca ruch i transformacje pola.
+### visualizer
+Skrypty i narzędzia do wizualizacji obiegów, interwałów i rezonansu.  
+Zawiera eksperymentalne mapy kątowe (36°, 30°, 5.625°, 720°).  
+To warstwa **Tau** — dynamika i transformacje pola.
 
-docs
-Zawiera dokumentację opisową, diagramy i przykłady użycia.
-To warstwa rezonansu (Rho), czyli sposób komunikacji modelu z odbiorcą.
+### docs
+Dokumentacja opisowa, diagramy, przykłady użycia.  
+To warstwa **Rho** — komunikacja i rezonans modelu z odbiorcą.
 
-Cel projektu:
-Badanie topologii informacji, emergencji struktur, rezonansu, systemów dynamicznych i złożoności.
-GIA definiuje strukturę informacji.
+## Cel projektu
+Badanie topologii informacji, emergencji struktur, rezonansu, systemów dynamicznych i złożoności.  
+GIA definiuje strukturę informacji.  
 TIMDR opisuje jej dynamikę i stabilizację.
 
-Status:
-Projekt w fazie rozwojowej. Struktura repo jest stabilna, treści rozwijane iteracyjnie.
+## Status
+Projekt w fazie rozwojowej. Struktura repozytorium jest stabilna, treści rozwijane iteracyjnie.
 
-Licencja:
-Do uzupełnienia według potrzeb.
+## Licencja
+Do uzupełnienia.
