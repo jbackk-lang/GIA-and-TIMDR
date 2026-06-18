@@ -32,4 +32,4 @@ TIMDR opisuje jej dynamikę i stabilizację.
 Projekt w fazie rozwojowej. Struktura repozytorium jest stabilna, treści rozwijane iteracyjnie.
 
 ## Licencja
-Do uzupełnienia.
+MiT
