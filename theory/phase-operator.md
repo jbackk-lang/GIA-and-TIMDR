@@ -1,9 +1,17 @@
 # Prime‑Phase Operator (TIMDR‑T)
-Generator filtrów fazowych TIMDR
+Matematyczny generator filtrów fazowych w teorii TIMDR.
 
-## 1. Rozdział liczb na węzły fazowe i resztę
+Operator TIMDR‑T opisuje sposób, w jaki struktura liczb pierwszych i złożonych
+tworzy modalności, przejścia fazowe oraz lokalne skręty w przestrzeni
+informacyjnej.
 
-W teorii TIMDR liczby pierwsze pełnią rolę stabilnych modalności (węzłów fazowych), natomiast liczby złożone reprezentują strefy przejściowe, w których zachodzi zmiana fazy, skręt lub reorganizacja struktury.
+---
+
+## 1. Podział liczb na modalności i strefy przejściowe
+
+W TIMDR liczby pierwsze pełnią rolę stabilnych modalności (węzłów fazowych),
+natomiast liczby złożone reprezentują strefy przejściowe, w których zachodzi
+zmiana fazy lub reorganizacja struktury.
 
 Definiujemy funkcję rozdzielającą:
 
@@ -12,24 +20,23 @@ Definiujemy funkcję rozdzielającą:
 \[
 \phi(n)=
 \begin{cases}
-0 & n \text{ jest pierwsza} \\
-1 & n \text{ jest złożona}
+0 & n\ \text{jest pierwsza} \\
+1 & n\ \text{jest złożona}
 \end{cases}
 \]
 
 
 
 Interpretacja:
-- **0** → stabilny węzeł modalny (czysta częstotliwość)
-- **1** → strefa przejściowa (szum, skręt, łuski, pancerz)
+- 0 → stabilny węzeł modalny (czysta częstotliwość),
+- 1 → strefa przejściowa (szum, skręt, reorganizacja).
 
 ---
 
-## 2. Operator TIMDR‑T (wzór‑generator)
+## 2. Operator TIMDR‑T
 
-Operator TIMDR‑T jest meta‑mechanizmem, który generuje filtry fazowe na podstawie rozdziału liczb pierwszych i reszty.
-
-Dla dowolnej funkcji \(f(n)\):
+Operator TIMDR‑T działa na dowolnej funkcji \(f(n)\) i rozróżnia zachowanie
+w zależności od tego, czy \(n\) jest liczbą pierwszą.
 
 
 
@@ -45,11 +52,11 @@ f(n+1)-f(n) & n\notin P
 
 Gdzie:
 - \(P\) — zbiór liczb pierwszych,
-- \(n\notin P\) — liczby złożone (reszta).
+- \(n\notin P\) — liczby złożone.
 
 Interpretacja:
-- jeśli \(n\) jest pierwsza → zachowujemy wartość (czysty sygnał),
-- jeśli \(n\) jest złożona → bierzemy różnicę (przejście fazowe).
+- liczby pierwsze → zachowujemy wartość (czysty sygnał),
+- liczby złożone → bierzemy różnicę (przejście fazowe).
 
 ---
 
@@ -57,16 +64,18 @@ Interpretacja:
 
 Operator TIMDR‑T formalizuje działanie filtra fazowego:
 
-- **liczby pierwsze** → stabilne modalności torusa‑Möbiusa,
-- **liczby złożone** → przejścia fazowe między modalnościami,
-- **różnica Δ** → skręt, łuski, pancerz,
-- **operator T** → filtr działający „w górę” (oczyszczanie sygnału) i „w dół” (ujawnianie struktury).
+- liczby pierwsze → stabilne modalności torusa‑Möbiusa,
+- liczby złożone → przejścia fazowe między modalnościami,
+- różnica Δ → lokalny skręt lub reorganizacja,
+- operator T → filtr działający „w górę” (oczyszczanie sygnału)
+  i „w dół” (ujawnianie struktury).
 
-To jest matematyczny odpowiednik tego, co TIMDR ujawnia na obrazach (np. struktury łuskowe, rezonanse, domeny fazowe).
+To jest matematyczny odpowiednik struktur widocznych po filtracji TIMDR
+(łuski, rezonanse, domeny fazowe).
 
 ---
 
-## 4. Zastosowanie
+## 4. Zastosowania
 
 Operator TIMDR‑T może być stosowany do:
 
@@ -74,17 +83,16 @@ Operator TIMDR‑T może być stosowany do:
 - filtracji szumu strukturalnego,
 - detekcji przejść fazowych,
 - rekonstrukcji geometrii pola,
-- interpretacji struktur widocznych po filtracji TIMDR (np. na obrazach NASA).
+- interpretacji struktur widocznych po filtracji TIMDR.
 
 ---
 
 ## 5. Podsumowanie
 
-Prime‑Phase Operator (TIMDR‑T) jest fundamentem matematycznym teorii TIMDR.  
+Prime‑Phase Operator (TIMDR‑T) jest fundamentem matematycznym TIMDR.
 Pozwala formalnie opisać:
 
 - węzły fazowe (liczby pierwsze),
-- strefy przejściowe (reszta),
+- strefy przejściowe (liczby złożone),
 - oraz sposób, w jaki filtr TIMDR generuje strukturę fazową.
 
-To jest
