@@ -186,6 +186,17 @@ Jednak ich topologiczna relacja zależy od uchwytu (skrętu) w układzie X.
 - Przy jednym uchwycie struny są skrzyżowane, ale rozdzielne.
 - Po zmianie uchwytu (M → M²) struny stają się **zespolone** — tworzą nierozdzielny link zespolony.
 
+## 14. Skręt: kwadrat albo złożona struna
+
+Dalszy skręt w układzie X ma dwa możliwe skutki:
+
+- albo domknięcie następuje po czterech krokach → powstaje struktura typu „kwadrat” (prosty, częściowo abelowy układ, bez osobliwości S(2,3,5)),
+- albo domknięcie nie jest możliwe po czterech krokach → układ przechodzi przez osobliwość S(2,3,5) i kończy jako złożona struna (link Poincarégo, S³/I*).
+
+W tym sensie skręt działa jak selektor:  
+**albo kwadrat (struktura redukowalna), albo złożona struna (struktura nieredukowalna z I* jako grupą fundamentalną).**
+
+
 To odpowiada przejściu od zwykłego linku do linku Poincarégo.  
 Zespolenie dwóch strun jest topologicznym rdzeniem osobliwości S(2,3,5) i prowadzi do jedynej możliwej grupy fundamentalnej: I*.
 
