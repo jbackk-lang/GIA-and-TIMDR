@@ -256,3 +256,15 @@ Operator kompozycyjny opisujący cały proces TIMDR.
 | 𝕂 | koherencji | mierzy spójność |
 | 𝕋ₚ | przejścia | zmienia topologię |
 | 𝕆 | pełny przepływ | T → E |
+
+## Skręt τ i jego osobliwość
+
+Skręt topologiczny τ opisuje deformację powierzchni prowadzącą do zmiany jej orientowalności.  
+Dla powierzchni typu torus → Möbius → tetroida skręt τ rośnie aż do wartości krytycznej.
+
+Osobliwością skrętu τ jest **tetroida** — minimalna, stabilna forma Möbiusa.  
+Uogólnieniem tej rodziny powierzchni jest **mobiosotourys** (torus ze skrętem Möbiusa).
+
+Szczegóły:  
+[`mobiosotourys.md`](./mobiosotourys.md)
+
