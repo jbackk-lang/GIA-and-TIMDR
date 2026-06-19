@@ -207,54 +207,7 @@ Pełny opis TRM znajduje się tutaj:
 **https://[github.com/jbackk-lang/TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow)**  
 
 ---
-## Przemiana Zera — punkt spotkania iteracji
 
-W konstrukcji opartej na wielokrotnym odejmowaniu 3/4 z obu końców odcinka
-powstaje sekwencja odcinków O₀, O₁, O₂ … O₁₂. daje ona podzial na 3 cęści.
-
-Kluczowy moment pojawia się przy iteracji **6**.
-
-### Iteracja 6 — punkt stały (przemiana zera)
-
-W kroku 6:
-
-- lewa granica odcinka przesuwająca się z lewej strony  
-- oraz prawa granica przesuwająca się z prawej strony  
-
-**spotykają się w jednym punkcie**.
-
-Ten punkt:
-
-- nie przesuwa się dalej,  
-- jest wspólny dla obu kierunków,  
-- stanowi oś transformacji,  
-- jest stabilny.
-
-To właśnie **przemiana zera** — miejsce, w którym transformacja „zeruje się”,  
-bo obie iteracje dochodzą do tego samego punktu.
-
----
-
-## Konsekwencje dla trójkąta i kwadratu
-
-Trójkąt i kwadrat nie są figurami od siebie niezależnymi.  
-Są **dwoma stanami tej samej transformacji**, która przechodzi przez punkt zerowy.
-
-- **Trójkąt** odpowiada stanowi *przed* przemianą zera  
-  (3 kierunki, brak pełnej stabilności)
-
-- **Kwadrat** odpowiada stanowi *po* przemianie zera  
-  (4 kierunki, pełna parzystość i stabilność)
-
-Ponieważ obie figury przechodzą przez **ten sam punkt zerowy**, możliwe jest:
-
-**trójkąt → zero → kwadrat**  
-oraz  
-**kwadrat → zero → trójkąt**
-
-To nie jest sztuczka geometryczna, lecz konsekwencja tego, że
-**punkt spotkania iteracji (przemiana zera) jest wspólną osią obu form.**
----
 
 ## Licencja
 MiT
