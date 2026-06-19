@@ -43,8 +43,7 @@ Model opisuje:
 - oraz powiązanie z cyklami przemagnesowania.
 
 Pełny opis TRM znajduje się tutaj:  
-**https://github.com/jbackk-lang/TRM**  
-*(lub inny link, jeśli repo ma inną nazwę)*
+**https://[github.com/jbackk-lang/TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow)**  
 
 
 
