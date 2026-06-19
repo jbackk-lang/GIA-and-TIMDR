@@ -177,3 +177,17 @@ Jej brzegiem jest S³/I*, więc jedyną możliwą grupą fundamentalną jest I*.
 
 Dlatego układ X pozostaje jedynym wynikiem redukcji potrójnej pętli —  
 żadna inna konfiguracja nie przetrwa domknięcia M².
+
+## 13. Zespolenie dwóch strun a uchwyt (skręt)
+
+Link osobliwości S(2,3,5) składa się z dwóch komponentów (dwóch strun).  
+Jednak ich topologiczna relacja zależy od uchwytu (skrętu) w układzie X.
+
+- Przy jednym uchwycie struny są skrzyżowane, ale rozdzielne.
+- Po zmianie uchwytu (M → M²) struny stają się **zespolone** — tworzą nierozdzielny link zespolony.
+
+To odpowiada przejściu od zwykłego linku do linku Poincarégo.  
+Zespolenie dwóch strun jest topologicznym rdzeniem osobliwości S(2,3,5) i prowadzi do jedynej możliwej grupy fundamentalnej: I*.
+
+Dlatego zmiana uchwytu nie zmienia liczby gałęzi, lecz zmienia ich zespolenie —  
+a to właśnie selekcjonuje I* jako jedyną stabilną strukturę domknięcia.
