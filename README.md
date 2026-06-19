@@ -206,9 +206,6 @@ Model opisuje:
 Pełny opis TRM znajduje się tutaj:  
 **https://[github.com/jbackk-lang/TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow)**  
 
-Trójpodział odcinka realizujemy przez trójkąt: trzy równe odcinki na ramieniu, połączenie skrajnego z końcem odcinka i równoległe przez pozostałe punkty dają dokładne 1/3 i 2/3 na odcinku bazowym
-
-
 ## Licencja
 MiT
 
