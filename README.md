@@ -31,6 +31,23 @@ TIMDR opisuje jej dynamikę i stabilizację.
 ## Status
 Projekt w fazie rozwojowej. Struktura repozytorium jest stabilna, treści rozwijane iteracyjnie.
 
+## Powiązane projekty
+
+### Topological Reduction Model (TRM)
+TRM jest rozszerzeniem GIA‑TIMDR w kierunku geologii, kosmologii i dynamiki fal topologicznych.  
+Model opisuje:
+- powstawanie fal z nadmiaru skrętu τ w strukturze Möbius‑X,
+- redukcję złożoności ρ w biosferze i geologii,
+- kierunek fali wynikający z połączenia geologii i pozycji Ziemi w kosmosie,
+- zdmuchnięcie Ziemi z osi podczas przejścia fali do drugiego pasma Möbiusa,
+- oraz powiązanie z cyklami przemagnesowania.
+
+Pełny opis TRM znajduje się tutaj:  
+**https://github.com/jbackk-lang/TRM**  
+*(lub inny link, jeśli repo ma inną nazwę)*
+
+
+
 ## Licencja
 MiT
 
