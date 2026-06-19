@@ -31,6 +31,19 @@ TIMDR opisuje jej dynamikę i stabilizację.
 ## Status
 Projekt w fazie rozwojowej. Struktura repozytorium jest stabilna, treści rozwijane iteracyjnie.
 
+## Osobliwość skrętu τ — tetroida
+
+W modelu GIA–TIMDR skręt τ osiąga wartość krytyczną w postaci
+**tetroidy** — minimalnej, stabilnej osobliwości Möbiusa o trzech
+wypukłych ścianach. Tetroida powstrzymuje zarówno zapadanie, jak i
+rozpadanie układu dzięki dodatniej krzywiźnie i ograniczeniom
+brzegowym. Jest to naturalny punkt przejścia ΔS oraz źródło fali
+topologicznej.
+
+Szczegółowy opis:  
+**[`tetroida.md`](./tetroida.md)**
+
+
 ## Powiązane projekty
 
 ### Topological Reduction Model (TRM)
