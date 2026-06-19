@@ -206,6 +206,8 @@ Model opisuje:
 Pełny opis TRM znajduje się tutaj:  
 **https://[github.com/jbackk-lang/TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow)**  
 
+Trójpodział nie powstaje z operacji 1/2 i 3/4, tylko z rozłożenia odcinka na trzy równe ramiona względem punktu zerowego. Powstaje wtedy odcinek 3× większy, który po ściągnięciu z powrotem do długości 1 daje dokładny trójpodział.
+
 ---
 
 
