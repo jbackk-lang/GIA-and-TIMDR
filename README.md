@@ -19,6 +19,7 @@ informacji:
 
 Model bada, jak informacja **powstaje, zmienia się i utrzymuje**  
 w systemach dynamicznych. 
+---
 
 ---
 
@@ -205,7 +206,31 @@ Model opisuje:
 Pełny opis TRM znajduje się tutaj:  
 **https://[github.com/jbackk-lang/TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow)**  
 
+---
+Wejście:
+    O — odcinek początkowy o długości L
 
+Cel:
+    Uzyskać 3 równe części bez użycia trójpodziału
+
+Algorytm:
+
+1. Ustaw O_0 = O
+
+2. Dla k = 1 do 12 wykonaj:
+       a) Odłóż z lewej strony O_{k-1} odcinek długości 3/4 * |O_{k-1}|
+       b) Odłóż z prawej strony O_{k-1} odcinek długości 3/4 * |O_{k-1}|
+       c) Usuń oba odłożone fragmenty
+       d) Pozostały środkowy odcinek nazwij O_k
+
+3. Po 12 iteracjach:
+       O_12 dzieli się naturalnie na 3 równe części
+       (wynika to z cyklu skrętu 12‑fazowego)
+
+Wyjście:
+    Trzy równe segmenty: S1, S2, S3
+
+---
 
 ## Licencja
 MiT
