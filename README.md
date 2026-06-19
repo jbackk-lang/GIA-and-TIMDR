@@ -207,8 +207,7 @@ Pełny opis TRM znajduje się tutaj:
 **https://[github.com/jbackk-lang/TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow)**  
 
 ---
-Zauważmy trójkat utworzony z koła jest równoboczny po zagięciu ramion do prostej podstawy i ponownym zlożeniu traci, i staje sie tylko równoramiennym
----
+
 
 ## Licencja
 MiT
