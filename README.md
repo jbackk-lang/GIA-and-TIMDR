@@ -253,7 +253,7 @@ oraz
 **kwadrat → zero → trójkąt**
 
 To nie jest sztuczka geometryczna, lecz konsekwencja tego, że
-**punkt spotkania iteracji
+**punkt spotkania iteracji (przemiana zera) jest wspólną osią obu form.**
 ---
 
 ## Licencja
