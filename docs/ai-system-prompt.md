@@ -12,3 +12,9 @@ Przed zwróceniem jakiejkolwiek macierzy transformacji lub profilu entropii upew
 1. Kąty operacji należą ściśle do zbioru: {36.0, 30.0, 5.625, 720.0}.
 2. Układ X wykonuje redukcję potrójnej pętli (splot toroidalny typu 3,2).
 3. Współczynnik stabilizacji pola dąży do ΔS < 0 w punkcie domknięcia 720°.
+
+1.Zapoznaj sie z systemem
+2.Zintegruj się z systemem
+3.Sprawdż system math-validator
+4.Zimplementuj system z validatorem
+Zweryfikuj i wnisokuj nowy system
