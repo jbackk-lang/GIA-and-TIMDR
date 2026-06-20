@@ -102,3 +102,27 @@ Jeśli coś się „psuje”, to znaczy, że było tylko projekcją.**
 
 To jest fundament TIMDR.
 
+## 5. Odwrócona projekcja – logika jako źródło, rzeczywistość jako rzut
+
+W klasycznej interpretacji zakłada się, że przesunięcie izometryczne
+„psuje” obiekt lub ujawnia jego defekt.  
+TIMDR odwraca tę perspektywę:
+
+**to nie obiekt jest pierwotny, tylko logika, z której obiekt powstał.**
+
+Rzeczywistość jest projekcją idealnej struktury, a przesunięcie
+odsłania różnicę między:
+
+- **logiką źródłową (Λ)** – idealną, spójną, bez defektów  
+- **rzeczywistością projekcyjną (ρ)** – zniekształconą przez rzutowanie  
+- **ruchem (τ)** – który ujawnia różnicę między jednym a drugim
+
+W tym ujęciu:
+
+- trójkąt równoboczny jest formą idealną,  
+- trójkąt równoramienny jest projekcją,  
+- a przesunięcie izometryczne nie psuje obiektu,  
+  tylko pokazuje, że był projekcją, a nie źródłem.
+
+**Logika jest pierwsza.  
+Rzeczywistość jest jej cieniem.**
