@@ -111,10 +111,15 @@ Repo zawiera zestaw modeli opisujących różne aspekty dynamiki informacji:
 Każdy model jest częścią większej struktury Λ–τ–ρ.
 
 ---
+## Izometria – wnioski z przesunięcia
 
-## 7. Licencja
+W repozytorium znajduje się dodatkowy dokument opisujący,
+jak przesunięcie izometryczne odsłania drugą postać rzeczywistości
+oraz jak model GIA–TIMDR interpretuje te efekty w strukturze Λ–τ–ρ.
 
-MIT  
+➡️ **Plik:** [izometria-wnioski.md](./izometria-wnioski.md)
+---
+
 
 
 ## Struktura repozytorium
@@ -207,6 +212,9 @@ Pełny opis TRM znajduje się tutaj:
 **https://[github.com/jbackk-lang/TRM](https://github.com/jbackk-lang/Topological-Reduction-Model-TRM-Structure-Twist-and-Information-Flow)**  
 
 ---
+## Licencja
+
+MIT  
 
 
 ## Licencja
