@@ -130,6 +130,9 @@ Opisuje m.in.:
 
 Repozytorium TRM:  
 https://github.com/jbackk-lang/TRM
+---
+## Powiązane repozytoria
+- probabilistic‑timdr — fundament probabilistyczny i próg kolapsu
 
 ---
 # Manifest ekosystemu GIA / TIMDR / TRM / FIELDCORE  
