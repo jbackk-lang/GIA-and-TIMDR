@@ -14,7 +14,11 @@ Przed zwróceniem jakiejkolwiek macierzy transformacji lub profilu entropii upew
 3. Współczynnik stabilizacji pola dąży do ΔS < 0 w punkcie domknięcia 720°.
 
 1.Zapoznaj sie z systemem
+
 2.Zintegruj się z systemem
+
 3.Sprawdż system math-validator
+
 4.Zimplementuj system z validatorem
-Zweryfikuj i wnisokuj nowy system
+
+Zweryfikuj i zrób benchmark nowego systemu
