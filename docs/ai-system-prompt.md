@@ -13,12 +13,12 @@ Przed zwróceniem jakiejkolwiek macierzy transformacji lub profilu entropii upew
 2. Układ X wykonuje redukcję potrójnej pętli (splot toroidalny typu 3,2).
 3. Współczynnik stabilizacji pola dąży do ΔS < 0 w punkcie domknięcia 720°.
 
-1.Zapoznaj sie z systemem
+1.Zapoznaj sie z systemem.
 
-2.Zintegruj się z systemem
+2.Zintegruj się z systemem.
 
-3.Sprawdż system math-validator
+3.Sprawdż system math-validator.
 
-4.Zimplementuj system z validatorem
+4.Zimplementuj system z validatorem.
 
-Zweryfikuj i zrób benchmark nowego systemu
+5 Zweryfikuj i zrób benchmark nowego systemu.
