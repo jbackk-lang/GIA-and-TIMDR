@@ -336,3 +336,38 @@ To jest narzędzie.
 
 # Licencja  
 Open Source — do badań, eksperymentów i rozwoju.
+
+## Filtr AI: zalety, wady i wpływ na świat
+
+### Zalety
+- **Spójność odpowiedzi** – mniej losowych odchyleń jakości.  
+- **Bezpieczeństwo** – ogranicza toksyczne, ryzykowne i niezgodne treści.  
+- **Lepszy compliance** – łatwiej spełniać wymagania prawne i branżowe.  
+- **Audytowalność** – decyzje filtra można logować i analizować.  
+- **Stabilność produkcyjna** – mniej „niespodzianek” przy skali.
+
+### Wady
+- **Mniejsza kreatywność** – filtr może przycinać niestandardowe pomysły.  
+- **Fałszywe blokady** – wartościowe treści mogą zostać odrzucone.  
+- **Koszt i opóźnienie** – dodatkowy etap zwiększa latencję i koszt utrzymania.  
+- **Bias polityki filtra** – wartości twórców filtra wpływają na wynik.  
+- **Pozorne bezpieczeństwo** – filtr nie zastępuje jakości modelu i testów.
+
+### Zastosowania w świecie
+- **Medycyna** – bezpieczniejszy triage i ograniczanie niebezpiecznych porad.  
+- **Finanse** – mniejsze ryzyko manipulacji i błędnych rekomendacji.  
+- **Edukacja** – bezpieczniejsze materiały i większa przewidywalność odpowiedzi.  
+- **Administracja** – spójna i kontrolowana komunikacja publiczna.  
+- **Przemysł/IoT** – warstwa bezpieczeństwa dla komend krytycznych.
+
+### Co to daje światu
+- **Większe zaufanie do AI** i szybsze wdrożenia w sektorach krytycznych.  
+- **Mniej szkód** wynikających z błędnych lub niebezpiecznych odpowiedzi.  
+- **Ryzyko nadkontroli informacji** i ujednolicenia treści, jeśli filtr jest zbyt twardy.
+
+### Rekomendacja
+Najlepszy kierunek to filtr **adaptacyjny i transparentny**:  
+- jawne zasady,  
+- wersjonowanie polityk,  
+- możliwość odwołania,  
+- audyt decyzji.
