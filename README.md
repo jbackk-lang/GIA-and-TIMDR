@@ -12,7 +12,8 @@ działa według jednego wzoru:
 Λ – τ – ρ  
 struktura – transformacja – defekt.
 
-To repozytorium zbiera wszystkie projekty wynikające z tego mechanizmu.
+To repozytorium zbiera wszystkie projekty wynikające z tego mechanizmu. <img src="https://raw.githubusercontent.com/jbackk-lang/GIA-and-TIMDR/main/niskniesk.png" width="33%">
+
 
 ---
 
