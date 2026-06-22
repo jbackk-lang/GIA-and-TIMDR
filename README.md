@@ -70,7 +70,7 @@ Paradoks znika — to tylko projekcja symetrii na liczby naturalne.
 | Poziom       | Definicja                               | Rola                                | Charakter                |
 |--------------|-------------------------------------------|--------------------------------------|--------------------------|
 | **Czas**     | ciągłość „od–do”                          | utrzymuje spójność                   | relacja, nie byt         |
-| **Fluktuacja** | minimalny krok czasu                    | wypełnia luki, testuje ciągłość      | jednostka czasu flukt        |
+| **Fluktuacja** | minimalny krok czasu                    | wypełnia luki, testuje ciągłość      | jednostka czasu hilb        |
 | **Foton**    | uporządkowana sekwencja fluktuacji        | przenosi zmianę skrętu               | pakiet czasu w ruchu     |
 | **Cząstka**  | stabilny skręt fluktuacji                 | tworzy trwałe obiekty                | stan geometrii           |
 | **Pole**     | przestrzeń możliwych skrętów              | określa dynamikę                     | mapa, nie obiekt         |
