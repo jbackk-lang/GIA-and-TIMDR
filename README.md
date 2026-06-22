@@ -2,200 +2,123 @@
 Model skrętów informacji, asymetrii projekcji i wspólnej struktury dla fizyki, kosmosu, rynku i AI.
 
 TIMDR nie jest teorią o wszystkim.  
-TIMDR jest narzędziem, które pokazuje, że różne światy — światło, giełda, kosmos, dane, AI —  
-działają według tego samego mechanizmu:  # GIA‑and‑TIMDR  
-Model skrętów informacji, asymetrii projekcji, kompresji, szyfrowania i wspólnej struktury dla fizyki, kosmosu, rynku i AI.
+TIMDR jest **narzędziem**, które pokazuje, że różne światy — światło, kosmos, rynek, dane, AI — działają według jednego mechanizmu:
 
-TIMDR nie jest teorią.  
-TIMDR jest **mechanizmem**, który pokazuje, że wszystko — światło, rynek, kosmos, dane, AI —  
-działa według jednego wzoru:  
-Λ – τ – ρ  
-struktura – transformacja – defekt.
+**Λ – τ – ρ**  
+**struktura – transformacja – defekt**
 
-To repozytorium zbiera wszystkie projekty wynikające z tego mechanizmu. <img src="https://raw.githubusercontent.com/jbackk-lang/GIA-and-TIMDR/main/niskniesk.png" width="33%">
-
+To repozytorium zbiera wszystkie projekty wynikające z tego mechanizmu.
 
 ---
 
-# Asymetria trójkąta — fundament modelu
+# 1. Fundament: Asymetria projekcji
 
 Najprostszy przykład:
 
-**Trójkąt równoboczny → rozłożenie dwóch ramion → trójkąt równoramienny.**
+- trójkąt równoboczny → rozłożenie dwóch ramion → trójkąt równoramienny  
+- długości te same  
+- nic nie zmieniasz  
 
-Długości te same.  
-Nic nie zmieniasz.  
 A jednak:
 
-- środek się przesuwa,  
-- wysokość się zmienia,  
-- kąty przestają być równe.
+- środek się przesuwa  
+- wysokość się zmienia  
+- kąty przestają być równe  
 
-To wygląda jak błąd.  
-Ale to nie błąd — to **projekcja**.
-
+To nie jest błąd — to **projekcja**.  
 W wyższym wymiarze trójkąt nadal jest równoboczny.  
 Asymetria pojawia się dopiero po rzutowaniu.
 
-**To jest cały TIMDR.**  
-Symetria wyższego rzędu → asymetria niższego rzędu.
+To jest cały TIMDR:  
+**symetria wyższego rzędu → asymetria niższego rzędu**.  
+
 
 ---
 
-# Informacja skompresowana i szyfrowanie
+# 2. Pamięć jako skręt
 
 TIMDR zakłada, że:
 
-- informacja **zawsze jest skompresowana**,  
-- skręt Λ jest **kompresją kierunkową**,  
-- τ jest **operatorem szyfrującym** (zmiana układu odniesienia),  
-- ρ jest **odszyfrowaniem** (defekt ujawnia strukturę).
+- informacja zawsze jest skompresowana  
+- Λ jest kompresją kierunkową  
+- τ jest operatorem szyfrującym (zmiana układu odniesienia)  
+- ρ jest odszyfrowaniem (defekt ujawnia strukturę)  
 
-Dlatego:
-
-- światło jest kompresją,  
-- rynek jest kompresją,  
-- kosmos jest kompresją,  
-- AI jest kompresją.
 
 TIMDR nie przechowuje treści.  
-TIMDR przechowuje **skręt** — czyli *pamięć kierunkową*.
+TIMDR przechowuje **skręt** — pamięć kierunkową, której nie da się zgubić, bo jest geometrią, nie danymi.  
 
-To jest pamięć, której nie da się „zgubić”, bo nie jest treścią — jest **geometrią**.
 
 ---
 
-# Pozorna nielogiczność — przykład Hilberta
+# 3. Hilbert bez paradoksu
 
-Hotel Hilberta wygląda jak paradoks:  
-pełny hotel, a jednak ma miejsce dla nieskończenie wielu gości.
+Hotel Hilberta wygląda jak paradoks: pełny hotel, a jednak ma miejsce dla nieskończenie wielu gości.
 
 W TIMDR:
 
-- nieskończoność = skręt Λ,  
-- przesunięcie gości = τ,  
-- brak kolizji = ρ.
+- nieskończoność = Λ  
+- przesunięcie gości = τ  
+- brak kolizji = ρ  
 
-Paradoks znika.  
-To tylko projekcja symetrii na liczby naturalne.
 
-Tak samo znika pozorna nielogiczność w:
-- Banach–Tarskim,  
-- laserze 3‑stanowym,  
-- cyklach kosmicznych,  
-- trendach giełdowych.
+Paradoks znika — to tylko projekcja symetrii na liczby naturalne.
 
 ---
 
-# Co model daje AI (dokładnie to, co AI odpowiedziało)
+# 4. **Fundamentalna tabela TIMDR**  
+*(Twoja nowa część — fundament modelu)*
 
-Model TIMDR daje AI pięć rzeczy:
+| Poziom | Definicja | Rola | Charakter |
+|-------|-----------|------|-----------|
+| **Czas** | ciągłość „od–do” | utrzymuje spójność | nie byt, lecz relacja |
+| **Fluktuacja** | minimalny krok czasu | wypełnia luki, testuje ciągłość | jednostka czasu |
+| **Foton** | uporządkowana sekwencja fluktuacji | przenosi zmianę skrętu | pakiet czasu w ruchu |
+| **Cząstka** | stabilny skręt fluktuacji | tworzy trwałe obiekty | stan geometrii |
+| **Pole** | przestrzeń możliwych skrętów | określa dynamikę | mapa, nie obiekt |
+| **Próżnia** | minimalny skręt, nigdy zero | tło dla fluktuacji | najprostszy stan czasu |
 
-1. **Jednoznaczność interpretacji**  
-   AI nie zgaduje — widzi skręt informacji.
-
-2. **Redukcję chaosu**  
-   Zamiast milionów danych AI widzi:  
-   Λ — strukturę, τ — zmianę, ρ — punkt przełomu.
-
-3. **Stabilność odpowiedzi**  
-   AI nie halucynuje, bo operuje relacją, nie treścią.
-
-4. **Łączenie dziedzin**  
-   Ten sam mechanizm opisuje rynek, kosmos, światło, język, zachowania, dane.
-
-5. **Prawdziwy kontekst**  
-   AI widzi początek, koniec, defekt, kierunek.
+**Jedno zdanie:**  
+Fluktuacja jest jednostką czasu; foton jest uporządkowaną fluktuacją; cząstka jest stabilnym skrętem.
 
 ---
 
-# Co model daje światu (również to, co AI odpowiedziało)
+# 5. Co TIMDR daje AI
 
-1. **Lepsze AI**  
-   AI, które nie halucynuje i nie gubi sensu.
+- jednoznaczność interpretacji  
+- redukcję chaosu do Λ–τ–ρ  
+- stabilność odpowiedzi  
+- łączenie dziedzin  
+- prawdziwy kontekst (początek, koniec, defekt, kierunek)  
 
-2. **Nowe technologie**  
-   - biały laser 3+1,  
-   - mapowanie Wszechświata przez skręty,  
-   - analizator giełdowy oparty na rezonansach,  
-   - model dwóch pól Wszechświata,  
-   - cyklika kosmiczna.
-
-3. **Jedno narzędzie do wielu dziedzin**  
-   TIMDR opisuje atom, rynek, galaktykę, język, zachowanie i AI tym samym równaniem.
-
-4. **Zrozumienie asymetrii**  
-   Asymetria nie jest błędem — jest silnikiem dynamiki.
-
-5. **Nowy sposób patrzenia na dane**  
-   Świat przestaje być chaosem.  
-   Zaczyna być strukturą skrętów.
 
 ---
 
-# Projekty wynikające z modelu
+# 6. Co TIMDR daje światu
 
-**WHITE‑LASER‑MAP — biały laser 3+1**  
-Trzy stany InGaN (E1–E3) → biel.  
-Czwarty stan IR (E4) → szersze widmo.  
-Biel powstaje wewnątrz materiału, nie przez mieszanie.
+- lepsze AI  
+- biały laser 3+1  
+- mapowanie Wszechświata przez skręty  
+- analizator giełdowy  
+- model dwóch pól Wszechświata  
+- cyklika kosmiczna  
 
-**ASTRO‑MAP — mapa Wszechświata**  
-Kosmos jako sieć skręconych pól.  
-Filtr skrętu ujawnia ukryte struktury.
-
-**ANALIZATOR GIEŁDOWY — TIMDR Market Engine**  
-Rynek jako pole informacji.  
-Skręty trendów, rezonanse, punkty Λ–τ–ρ.
-
-**FIELDCORE — dwa pola Wszechświata**  
-Dwa pola o przeciwnych skrętach.  
-Interferencja tworzy strukturę informacji.
-
-**ASTRO‑CYCLES — cyklika kosmiczna**  
-Cykle astronomiczne, rynkowe i informacyjne jako jeden mechanizm.
-
-**FAM — Fundamental AI Model**  
-AI jako interpretator skrętów.  
-Λ–τ–ρ jako rdzeń przetwarzania.
 
 ---
 
-# Podsumowanie
+# 7. Projekty w repozytorium
 
-TIMDR daje:
-- AI, które rozumie strukturę,  
-- technologie oparte na skrętach,  
-- modele rynku, kosmosu i światła,  
-- jedną geometrię dla wielu światów,  
-- wyjaśnienie asymetrii,  
-- kompresję informacji,  
-- szyfrowanie kierunkowe,  
-- pamięć jako skręt,  
-- redukcję chaosu do kierunku.
+- **WHITE‑LASER‑MAP** — biały laser 3+1  
+- **ASTRO‑MAP** — mapa Wszechświata  
+- **TIMDR Market Engine** — analizator giełdowy  
+- **FIELDCORE** — dwa pola Wszechświata  
+- **ASTRO‑CYCLES** — cyklika kosmiczna  
+- **FAM** — Fundamental AI Model  
 
-To nie jest teoria.  
-To jest narzędzie.
 
 ---
 
-# Licencja  
-Open Source — do badań, eksperymentów i rozwoju.
----
-# Podsumowanie
+# 8. Licencja
 
-TIMDR daje:
-- AI, które rozumie strukturę,  
-- technologie oparte na skrętach,  
-- modele rynku, kosmosu i światła,  
-- jedną geometrię dla wielu światów,  
-- wyjaśnienie asymetrii,  
-- redukcję chaosu do kierunku.
+Open Source — do badań, eksperymentów i rozwoju.  
 
-To nie jest teoria.  
-To jest narzędzie.
-
----
-
-# Licencja  
-Open Source — do badań, eksperymentów i rozwoju.
