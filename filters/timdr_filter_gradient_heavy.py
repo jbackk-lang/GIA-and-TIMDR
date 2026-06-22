@@ -117,3 +117,34 @@ def timdr_migotowiec(img: Image.Image) -> Image.Image:
     # wagi można korygować
     w_fig = 0.35
     w_fft = 0.25
+    w_num = 0.10
+    w_dyn = 0.15
+    w_str = 0.15
+
+    out = (
+        w_fig * figura +
+        w_fft * widmo +
+        w_num * liczba +
+        w_dyn * dyn +
+        w_str * struktura
+    )
+
+    return _from_float_array(out)
+
+
+def main():
+    if len(sys.argv) < 3:
+        print("Użycie: python timdr_migotowiec_heavy.py wejście.jpg wyjście.png")
+        sys.exit(1)
+
+    in_path = Path(sys.argv[1])
+    out_path = Path(sys.argv[2])
+
+    img = Image.open(in_path)
+    out = timdr_migotowiec(img)
+    out.save(out_path)
+    print(f"Zapisano migotowca do: {out_path}")
+
+
+if __name__ == "__main__":
+    main()
