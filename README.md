@@ -63,6 +63,26 @@ W TIMDR:
 
 
 Paradoks znika — to tylko projekcja symetrii na liczby naturalne.
+### Hilbert jako fluktuacja czasu
+
+Hotel Hilberta nie opisuje nieskończoności liczb — opisuje **mechanizm ciągłości**.
+
+W TIMDR minimalny krok czasu (fluktuacja) działa dokładnie tak samo, jak przesuwanie gości w hotelu Hilberta:
+
+- zawsze można przesunąć impuls o jeden pokój,
+- zawsze można wypełnić lukę,
+- ciągłość nigdy się nie rwie,
+- nie ma „braku miejsca”.
+
+Dlatego **Hilbert nie jest paradoksem** — jest matematycznym opisem tego samego mechanizmu, który w fizyce nazywamy *fluktuacją*.
+
+**Hilb = flukt**  
+czyli:  
+**minimalny krok ciągłości = minimalny krok czasu**.
+
+Hilbert pokazuje to w liczbach.  
+Fluktuacja pokazuje to w polu.  
+TIMDR łączy jedno z drugim.
 
 ---
 ## Fundamentalna tabela TIMDR
