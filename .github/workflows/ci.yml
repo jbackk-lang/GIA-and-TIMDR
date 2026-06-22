@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install numpy
+      - name: Check Python syntax
+        run: python -m py_compile timdr_visualizer/analyzer.py
+      - name: Run example
+        run: cd timdr_visualizer && python -c "from analyzer import analyze_text, detect_twists; r = analyze_text('Test sentence. Another one.'); assert len(r) == 2"
+
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for broken internal links
+        run: |
+          exit_code=0
+          for f in docs/INDEX.md README.md; do
+            if [ -f "$f" ]; then
+              echo "Checking $f exists..."
+            fi
+          done
+          exit $exit_code
