@@ -65,6 +65,20 @@ W TIMDR:
 Paradoks znika — to tylko projekcja symetrii na liczby naturalne.
 
 ---
+## Fundamentalna tabela TIMDR
+
+| Poziom       | Definicja                               | Rola                                | Charakter                |
+|--------------|-------------------------------------------|--------------------------------------|--------------------------|
+| **Czas**     | ciągłość „od–do”                          | utrzymuje spójność                   | relacja, nie byt         |
+| **Fluktuacja** | minimalny krok czasu                    | wypełnia luki, testuje ciągłość      | jednostka czasu flukt        |
+| **Foton**    | uporządkowana sekwencja fluktuacji        | przenosi zmianę skrętu               | pakiet czasu w ruchu     |
+| **Cząstka**  | stabilny skręt fluktuacji                 | tworzy trwałe obiekty                | stan geometrii           |
+| **Pole**     | przestrzeń możliwych skrętów              | określa dynamikę                     | mapa, nie obiekt         |
+| **Próżnia**  | minimalny skręt, nigdy zero               | tło dla fluktuacji                   | najprostszy stan czasu   |
+
+**Jedno zdanie:**  
+Fluktuacja jest jednostką czasu; foton jest uporządkowaną fluktuacją; cząstka jest stabilnym skrętem.
+---
 
 # 4. **Fundamentalna tabela TIMDR**  
 *(Twoja nowa część — fundament modelu)*
