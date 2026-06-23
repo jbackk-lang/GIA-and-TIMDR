@@ -117,6 +117,68 @@ Model przejścia metryki:
 
 Więcej: `docs/TIMDR-metric-transition.md`
 
+## 10. Trójkąt przejścia — mechanizm impulsu (Λ–τ–ρ)
+
+Trójkąt jest pierwszą figurą, która **nie zachowuje długości boków przy przejściu projekcyjnym**.  
+To właśnie ta cecha generuje **impuls** — minimalną, wymuszoną zmianę struktury.
+
+### 🔹 1. Struktura (Λ)
+Trójkąt równoboczny ma trzy równe boki:
+
+A = B = C
+
+To jest stan idealny, symetryczny.
+
+### 🔹 2. Transformacja (τ)
+Każde rzutowanie (zmiana perspektywy, zmiana układu odniesienia, zmiana skrętu pola) powoduje:
+
+A' ≠ B' ≠ C'
+
+Symetria znika.  
+**To jest impuls.**  
+Impuls = wymuszona zmiana długości jednego boku względem pozostałych.
+
+### 🔹 3. Defekt (ρ)
+Różnica między bokami po transformacji:
+
+Δ = |A' – B'| + |B' – C'| + |C' – A'|
+
+To jest **defekt projekcyjny**, czyli dokładnie ρ.
+
+### 🔹 4. Mechanizm przejścia boków
+
+Proces wygląda tak:
+
+1. **Start:** A = B = C  
+2. **Rzutowanie:** jeden bok „wypada” z symetrii  
+3. **Impuls:** powstaje minimalna różnica (Δ > 0)  
+4. **Stabilizacja:** układ szuka nowej równowagi  
+5. **Powstaje skręt:** różnica Δ zamienia się w kierunek
+
+W skrócie:
+
+Λ → τ → ρ → impuls → skręt
+
+### 🔹 5. Dlaczego trójkąt jest konieczny
+
+- kwadrat zachowuje proporcje przy obrocie → **nie daje impulsu**  
+- koło zachowuje wszystko → **nie daje impulsu**  
+- trójkąt **zawsze** traci symetrię przy zmianie perspektywy → **zawsze daje impuls**
+
+Dlatego trójkąt jest **pierwszym generatorem zmiany** w TIMDR.
+
+### 🔹 6. Zastosowanie w modelu
+
+- impuls = początek fotonu  
+- impuls = początek skrętu  
+- impuls = początek cząstki  
+- impuls = początek obiegu  
+- impuls = początek helisy  
+- impuls = początek informacji
+
+Trójkąt jest **pierwszym operatorem różnicy**.
+
+
 ---
 
 ## 🔗 Wszystkie modele i repozytoria
