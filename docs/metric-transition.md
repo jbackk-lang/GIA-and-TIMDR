@@ -59,4 +59,5 @@ Dragan dostarcza formalizmu matematycznego, który opisuje:
 Niebo, które widzimy, jest funkcją ostatniej transformacji metryki.**
 
 [Słoń — PNG](docs/img/slon.png)
-[Słoń pełny — PNG](/slon-pelny.png)
+
+[Słoń pełny — PNG](slon-pelny.png)
