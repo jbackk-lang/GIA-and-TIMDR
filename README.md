@@ -167,3 +167,8 @@ Więcej szczegółów: zobacz
 
 ([https://github.com/...](https://github.com/jbackk-lang/GIA-and-TIMDR/blob/main/docs/metric-transition.md))
 
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+
+
