@@ -1,186 +1,131 @@
 # GIA‑and‑TIMDR  
-Model skrętów informacji, asymetrii projekcji i wspólnej struktury dla fizyki, kosmosu, rynku i AI.
+Model impulsu, skrętu i informacji oparty na najprostszej możliwej asymetrii: TRÓJKĄCIE.
 
 ---
 
-## 🔰 Jak wejść w ten model (dla nowych osób)
+# 1. Trójkąt — początek wszystkiego
 
-Aby uniknąć nieporozumień i błędnych interpretacji:
+Najprostszy sposób, aby zrozumieć TIMDR, to zacząć od trójkąta równobocznego.
 
-### **1. Język**
+### 1.1 Trójkąt w kole  
+Wyobraź sobie trójkąt równoboczny wpisany w koło.  
+W tym ustawieniu wszystkie boki są równe — pełna symetria.
+
+### 1.2 Przeniesienie na prostą  
+Kiedy przeniesiemy trójkąt z koła na prostą (np. ustawiając go na jednym boku),  
+symetria zaczyna się łamać.  
+Dwa ramiona „opadają” inaczej niż trzecie.
+
+### 1.3 Składanie i rozkładanie ramion  
+Jeśli teraz:
+- składasz trójkąt na podstawie,
+- rozchylasz lub dociągasz ramiona,
+
+to trójkąt przestaje być równoboczny i staje się równoramienny.
+
+To jest **impuls** — pierwsza wymuszona różnica.
+
+### 1.4 Mechanizm przejścia boków  
+1. Symetria: A = B = C  
+2. Zmiana układu: przeniesienie z koła na prostą  
+3. Wymuszenie: ramiona nie mogą pozostać równe  
+4. Impuls: pojawia się minimalna różnica  
+5. Kierunek: różnica zamienia się w skręt
+
+Trójkąt jest pierwszym „silnikiem różnicy”.
+
+---
+
+# 2. TIMDR — rama interpretacyjna
+
+TIMDR opisuje, jak impuls zamienia się w strukturę.
+
+### 2.1 Trzy operatory
+- **Λ (lambda)** — struktura  
+- **τ (tau)** — transformacja  
+- **ρ (rho)** — defekt  
+
+Trójkąt generuje impuls → impuls przechodzi przez Λ–τ–ρ → powstaje skręt.
+
+---
+
+# 3. Skręt jako informacja
+
+W TIMDR informacja nie jest treścią, tylko **skrętem**.
+
+- fluktuacja = minimalny krok czasu  
+- foton = uporządkowana fluktuacja  
+- cząstka = stabilny skręt  
+- pole = przestrzeń możliwych skrętów  
+- próżnia = minimalny skręt
+
+---
+
+# 4. Helisa i obiegi
+
+Kiedy skręt stabilizuje się w czasie, powstaje **helisa**.  
+Helisa może tworzyć:
+- pojedyncze obiegi,  
+- wielokomórkowe struktury,  
+- układy cząstek,  
+- granice (Boundary‑Matter).
+
+---
+
+# 5. Boundary‑Matter — struktura pola
+
+Boundary‑Matter opisuje:
+- komórki (helisy),
+- granice między nimi,
+- układy wielokomórkowe,
+- przejścia między obiegami.
+
+To jest język struktury, nie chemia klasyczna.
+
+---
+
+# 6. Zastosowania TIMDR
+
+- biały laser 3+1  
+- mapowanie Wszechświata przez skręty  
+- analizator giełdowy  
+- model dwóch pól Wszechświata  
+- cyklika kosmiczna  
+- FAM — Fundamental AI Model  
+
+---
+
+# 7. Jak wejść w model (dla nowych osób)
+
+Aby uniknąć nieporozumień:
+
+### 7.1 Język  
 Model używa pojęć z topologii pola:
-- **helicity** – skręt pola,
-- **topological charge** – ładunek topologiczny,
-- **field line linking** – wiązanie linii pola.
+- helicity,  
+- topological charge,  
+- field line linking.
 
-To są pojęcia z literatury fizycznej (Moffatt 1969, Berger & Field 1984).
+### 7.2 Struktura  
+TIMDR to rama interpretacyjna, nie klasyczna EM.
 
-### **2. Struktura**
-TIMDR to **rama interpretacyjna**, nie klasyczna EM:
-- **Λ** – struktura,
-- **τ** – transformacja,
-- **ρ** – defekt.
-
-### **3. Zakres**
-TIMDR **nie jest teorią wszystkiego**.  
-To narzędzie do opisu wspólnego mechanizmu w różnych dziedzinach.
+### 7.3 Źródła  
+Podstawy skrętu pola:
+- Moffatt (1969)  
+- Berger & Field (1984)
 
 ---
 
-## 1. Fundament: Asymetria projekcji
+# 8. Repozytoria powiązane
 
-Symetria w wyższym wymiarze może wyglądać na asymetrię po rzutowaniu.  
-TIMDR traktuje to jako podstawowy mechanizm powstawania różnic, kierunków i skrętów.
-
----
-
-## 2. Pamięć jako skręt
-
-W tym modelu:
-- informacja jest kompresowana kierunkowo (**Λ**),
-- transformacja zmienia układ odniesienia (**τ**),
-- defekt ujawnia strukturę (**ρ**).
-
-TIMDR nie przechowuje treści — przechowuje **skręt**, czyli geometrię.
+- WHITE‑LASER‑MAP  
+- ASTRO‑MAP  
+- TIMDR Market Engine  
+- FIELDCORE  
+- ASTRO‑CYCLES  
+- FAM  
 
 ---
 
-## 3. Hilbert bez paradoksu
-
-Hotel Hilberta nie opisuje nieskończoności liczb, tylko **ciągłość**.  
-W TIMDR:
-- nieskończoność = Λ,
-- przesunięcie = τ,
-- brak kolizji = ρ.
-
-Minimalna fluktuacja czasu działa jak przesunięcie gości w hotelu.
-
----
-
-## 4. Fundamentalna tabela TIMDR
-
-| Poziom       | Definicja                         | Rola                        |
-|--------------|-----------------------------------|-----------------------------|
-| Czas         | ciągłość „od–do”                  | spójność                    |
-| Fluktuacja   | minimalny krok czasu              | test ciągłości              |
-| Foton        | uporządkowana sekwencja fluktuacji| przenosi zmianę skrętu      |
-| Cząstka      | stabilny skręt fluktuacji         | trwały obiekt               |
-| Pole         | przestrzeń możliwych skrętów      | mapa dynamiki               |
-| Próżnia      | minimalny skręt                   | tło                         |
-
-**Jedno zdanie:**  
-Fluktuacja jest jednostką czasu; foton jest uporządkowaną fluktuacją; cząstka jest stabilnym skrętem.
-
----
-
-## 5. Co TIMDR daje AI
-
-- redukcję chaosu do Λ–τ–ρ,  
-- stabilność interpretacji,  
-- łączenie dziedzin,  
-- kontekst kierunkowy.
-
----
-
-## 6. Co TIMDR daje światu
-
-- biały laser 3+1,  
-- mapowanie Wszechświata przez skręty,  
-- analizator giełdowy,  
-- model dwóch pól Wszechświata,  
-- cyklikę kosmiczną.
-
----
-
-## 7. Projekty w repozytorium
-
-- **WHITE‑LASER‑MAP** — biały laser 3+1  
-- **ASTRO‑MAP** — mapa Wszechświata  
-- **TIMDR Market Engine** — analizator giełdowy  
-- **FIELDCORE** — dwa pola Wszechświata  
-- **ASTRO‑CYCLES** — cyklika kosmiczna  
-- **FAM** — Fundamental AI Model  
-
----
-
-## 8. Licencja
+# 9. Licencja
 
 Open Source — do badań, eksperymentów i rozwoju.
-
----
-
-## 9. Metric Transition & Dragan Framework
-
-Model przejścia metryki:
-- deformacja metryki może dawać efekty pozornie nadświetlne,
-- TIMDR opisuje to jako Λ–τ–ρ w przestrzeni czasoprzestrzennej.
-
-Więcej: `docs/TIMDR-metric-transition.md`
-
-## 10. Trójkąt przejścia — mechanizm impulsu (Λ–τ–ρ)
-
-Trójkąt jest pierwszą figurą, która **nie zachowuje długości boków przy przejściu projekcyjnym**.  
-To właśnie ta cecha generuje **impuls** — minimalną, wymuszoną zmianę struktury.
-
-### 🔹 1. Struktura (Λ)
-Trójkąt równoboczny ma trzy równe boki:
-
-A = B = C
-
-To jest stan idealny, symetryczny.
-
-### 🔹 2. Transformacja (τ)
-Każde rzutowanie (zmiana perspektywy, zmiana układu odniesienia, zmiana skrętu pola) powoduje:
-
-A' ≠ B' ≠ C'
-
-Symetria znika.  
-**To jest impuls.**  
-Impuls = wymuszona zmiana długości jednego boku względem pozostałych.
-
-### 🔹 3. Defekt (ρ)
-Różnica między bokami po transformacji:
-
-Δ = |A' – B'| + |B' – C'| + |C' – A'|
-
-To jest **defekt projekcyjny**, czyli dokładnie ρ.
-
-### 🔹 4. Mechanizm przejścia boków
-
-Proces wygląda tak:
-
-1. **Start:** A = B = C  
-2. **Rzutowanie:** jeden bok „wypada” z symetrii  
-3. **Impuls:** powstaje minimalna różnica (Δ > 0)  
-4. **Stabilizacja:** układ szuka nowej równowagi  
-5. **Powstaje skręt:** różnica Δ zamienia się w kierunek
-
-W skrócie:
-
-Λ → τ → ρ → impuls → skręt
-
-### 🔹 5. Dlaczego trójkąt jest konieczny
-
-- kwadrat zachowuje proporcje przy obrocie → **nie daje impulsu**  
-- koło zachowuje wszystko → **nie daje impulsu**  
-- trójkąt **zawsze** traci symetrię przy zmianie perspektywy → **zawsze daje impuls**
-
-Dlatego trójkąt jest **pierwszym generatorem zmiany** w TIMDR.
-
-### 🔹 6. Zastosowanie w modelu
-
-- impuls = początek fotonu  
-- impuls = początek skrętu  
-- impuls = początek cząstki  
-- impuls = początek obiegu  
-- impuls = początek helisy  
-- impuls = początek informacji
-
-Trójkąt jest **pierwszym operatorem różnicy**.
-
-
----
-
-## 🔗 Wszystkie modele i repozytoria
-
-https://jbackk-lang.github.io
