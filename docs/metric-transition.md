@@ -58,3 +58,5 @@ Dragan dostarcza formalizmu matematycznego, który opisuje:
 Światło zapisuje tę zmianę jako helisy i smugi.  
 Niebo, które widzimy, jest funkcją ostatniej transformacji metryki.**
 
+[Słoń — PNG](docs/img/slon.png)
+[Słoń pełny — PNG](docs/img/slon-pelny.png)
