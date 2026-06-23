@@ -57,7 +57,7 @@ Dragan dostarcza formalizmu matematycznego, który opisuje:
 **Fala przejścia zmienia metrykę.  
 Światło zapisuje tę zmianę jako helisy i smugi.  
 Niebo, które widzimy, jest funkcją ostatniej transformacji metryki.**
+---
+NGC 1300
 
-[![Słoń](docs/img/slon.png)](docs/slon.png)
-
-[![Słoń pełny](docs/img/slon-pelny.png)](slon-pelny.png)
+https://github.com/jbackk-lang/GIA-and-TIMDR/blob/main/slon%20pelny%20filtr.PNG
