@@ -1,57 +1,64 @@
 # GIA‑and‑TIMDR  
-Model impulsu, skrętu i informacji oparty na najprostszej możliwej asymetrii: TRÓJKĄCIE.
+**Model impulsu, skrętu i informacji oparty na najprostszej możliwej asymetrii: TRÓJKĄCIE.**  
+To repozytorium opisuje fundamenty TIMDR — ramy interpretacyjnej, która łączy geometrię, informację, pole i dynamikę w jeden spójny mechanizm.
 
 ---
 
-# 1. Trójkąt — początek wszystkiego
+# 1. TRÓJKĄT — PIERWSZA RÓŻNICA, PIERWSZY IMPULS
 
-Najprostszy sposób, aby zrozumieć TIMDR, to zacząć od trójkąta równobocznego.
+TIMDR zaczyna się od najprostszej figury, która **nie utrzymuje symetrii przy zmianie układu**.
 
-### 1.1 Trójkąt w kole  
-Wyobraź sobie trójkąt równoboczny wpisany w koło.  
-W tym ustawieniu wszystkie boki są równe — pełna symetria.
+## 1.1 Trójkąt w kole  
+Trójkąt równoboczny wpisany w koło ma pełną symetrię:  
+**A = B = C**
 
-### 1.2 Przeniesienie na prostą  
-Kiedy przeniesiemy trójkąt z koła na prostą (np. ustawiając go na jednym boku),  
+To jest stan idealny — brak kierunku, brak różnicy, brak skrętu.
+
+## 1.2 Przeniesienie na prostą  
+Gdy przeniesiemy trójkąt z koła na prostą (np. ustawiając go na jednym boku),  
 symetria zaczyna się łamać.  
 Dwa ramiona „opadają” inaczej niż trzecie.
 
-### 1.3 Składanie i rozkładanie ramion  
-Jeśli teraz:
-- składasz trójkąt na podstawie,
-- rozchylasz lub dociągasz ramiona,
+## 1.3 Składanie i rozkładanie ramion  
+Kiedy:
+- składasz trójkąt na podstawie,  
+- rozchylasz lub dociągasz ramiona,  
 
-to trójkąt przestaje być równoboczny i staje się równoramienny.
+trójkąt **nie może pozostać równoboczny**.  
+Powstaje **równoramienny** — pierwsza wymuszona różnica.
 
-To jest **impuls** — pierwsza wymuszona różnica.
+To jest **impuls**.
 
-### 1.4 Mechanizm przejścia boków  
+## 1.4 Mechanizm przejścia boków  
 1. Symetria: A = B = C  
-2. Zmiana układu: przeniesienie z koła na prostą  
+2. Zmiana układu: koło → prosta  
 3. Wymuszenie: ramiona nie mogą pozostać równe  
 4. Impuls: pojawia się minimalna różnica  
 5. Kierunek: różnica zamienia się w skręt
 
-Trójkąt jest pierwszym „silnikiem różnicy”.
+**Trójkąt jest pierwszym silnikiem różnicy.**
 
 ---
 
-# 2. TIMDR — rama interpretacyjna
+# 2. ANOMALIA — GDY RÓŻNICA NIE MOŻE SIĘ WYCOFAĆ
 
-TIMDR opisuje, jak impuls zamienia się w strukturę.
+Impuls z trójkąta nie zawsze może wrócić do symetrii.  
+Jeśli układ nie ma drogi powrotnej, powstaje **anomalia**.
 
-### 2.1 Trzy operatory
-- **Λ (lambda)** — struktura  
-- **τ (tau)** — transformacja  
-- **ρ (rho)** — defekt  
+Anomalia to:
+- utrwalona różnica,  
+- lokalny defekt,  
+- punkt, który wymusza kierunek,  
+- początek skrętu.
 
-Trójkąt generuje impuls → impuls przechodzi przez Λ–τ–ρ → powstaje skręt.
+W TIMDR anomalia jest **źródłem informacji**.
 
 ---
 
-# 3. Skręt jako informacja
+# 3. SKRĘT — INFORMACJA W CZYSTEJ POSTACI
 
-W TIMDR informacja nie jest treścią, tylko **skrętem**.
+W TIMDR informacja nie jest treścią.  
+Informacja to **skręt**, czyli sposób, w jaki różnica z trójkąta układa się w czasie.
 
 - fluktuacja = minimalny krok czasu  
 - foton = uporządkowana fluktuacja  
@@ -59,63 +66,115 @@ W TIMDR informacja nie jest treścią, tylko **skrętem**.
 - pole = przestrzeń możliwych skrętów  
 - próżnia = minimalny skręt
 
----
-
-# 4. Helisa i obiegi
-
-Kiedy skręt stabilizuje się w czasie, powstaje **helisa**.  
-Helisa może tworzyć:
-- pojedyncze obiegi,  
-- wielokomórkowe struktury,  
-- układy cząstek,  
-- granice (Boundary‑Matter).
+Skręt jest **jednostką informacji**.
 
 ---
 
-# 5. Boundary‑Matter — struktura pola
+# 4. HELISA — STABILIZACJA SKRĘTU
+
+Kiedy skręt utrzymuje się w czasie, powstaje **helisa**.
+
+Helisa:
+- stabilizuje impuls,  
+- zamyka różnicę w obieg,  
+- tworzy komórkę strukturalną,  
+- jest podstawą Boundary‑Matter.
+
+Helisa to **czasowy zapis różnicy**.
+
+---
+
+# 5. OBIEGI — UKŁADY WIELOKOMÓRKOWE
+
+Z helis powstają obiegi:
+- pojedyncze,  
+- wielokomórkowe,  
+- zamknięte,  
+- otwarte,  
+- rezonansowe.
+
+Obieg to **struktura, która pamięta kierunek**.
+
+---
+
+# 6. BOUNDARY‑MATTER — JĘZYK STRUKTURY
 
 Boundary‑Matter opisuje:
-- komórki (helisy),
-- granice między nimi,
-- układy wielokomórkowe,
-- przejścia między obiegami.
+- komórki (helisy),  
+- granice między nimi,  
+- układy wielokomórkowe,  
+- przejścia między obiegami,  
+- defekty i anomalie.
 
-To jest język struktury, nie chemia klasyczna.
-
----
-
-# 6. Zastosowania TIMDR
-
-- biały laser 3+1  
-- mapowanie Wszechświata przez skręty  
-- analizator giełdowy  
-- model dwóch pól Wszechświata  
-- cyklika kosmiczna  
-- FAM — Fundamental AI Model  
+To jest **język pola**, nie chemia klasyczna.
 
 ---
 
-# 7. Jak wejść w model (dla nowych osób)
+# 7. TIMDR — RAMA INTERPRETACYJNA
+
+TIMDR to trzy operatory:
+
+### Λ — struktura  
+To, co jest ustawione.
+
+### τ — transformacja  
+To, co zmienia układ odniesienia.
+
+### ρ — defekt  
+To, co ujawnia różnicę.
+
+Trójkąt generuje impuls → impuls przechodzi przez Λ–τ–ρ → powstaje skręt.
+
+---
+
+# 8. GIA — GEOMETRIC INFORMATION ANALYSIS
+
+GIA to narzędzie, które:
+- wykrywa skręty,  
+- wykrywa anomalie,  
+- analizuje obiegi,  
+- mapuje strukturę pola,  
+- łączy dane z różnych dziedzin.
+
+GIA jest praktyczną implementacją TIMDR.
+
+---
+
+# 9. ZASTOSOWANIA
+
+- **biały laser 3+1**  
+- **mapowanie Wszechświata przez skręty**  
+- **analizator giełdowy**  
+- **model dwóch pól Wszechświata**  
+- **cyklika kosmiczna**  
+- **FAM — Fundamental AI Model**  
+
+TIMDR nie jest teorią wszystkiego.  
+To **narzędzie do opisu wspólnego mechanizmu**.
+
+---
+
+# 10. JAK WEJŚĆ W MODEL (dla nowych osób)
 
 Aby uniknąć nieporozumień:
 
-### 7.1 Język  
+### 10.1 Język  
 Model używa pojęć z topologii pola:
 - helicity,  
 - topological charge,  
 - field line linking.
 
-### 7.2 Struktura  
+### 10.2 Struktura  
 TIMDR to rama interpretacyjna, nie klasyczna EM.
 
-### 7.3 Źródła  
+### 10.3 Źródła  
 Podstawy skrętu pola:
 - Moffatt (1969)  
 - Berger & Field (1984)
 
 ---
 
-# 8. Repozytoria powiązane
+# 11. POWIĄZANE REPOZYTORIA
 
 - WHITE‑LASER‑MAP  
 - ASTRO‑MAP  
@@ -126,6 +185,6 @@ Podstawy skrętu pola:
 
 ---
 
-# 9. Licencja
+# 12. LICENCJA
 
 Open Source — do badań, eksperymentów i rozwoju.
