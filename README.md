@@ -1,7 +1,7 @@
 # GIA‑and‑TIMDR  
 **Model impulsu, skrętu i informacji oparty na najprostszej możliwej asymetrii: TRÓJKĄCIE.**  
 To repozytorium opisuje fundamenty TIMDR — ramy interpretacyjnej, która łączy geometrię, informację, pole i dynamikę w jeden spójny mechanizm.
-
+TIMDR/TRM to język opisu — zestaw pojęć i operatorów który pozwala zadawać pewien typ pytań o strukturę, redukcję i rezonans.
 ---
 
 # 1. TRÓJKĄT — PIERWSZA RÓŻNICA, PIERWSZY IMPULS
