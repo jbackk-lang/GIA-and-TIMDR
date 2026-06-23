@@ -157,4 +157,4 @@ Open Source — do badań, eksperymentów i rozwoju.
 - **Λ (struktura):** globalna metryka, układ X‑w‑X, ramy pola.  
 - **τ (transformacja):** fala przejścia, zmiana skrętu, deformacja czasoprzestrzeni.  
 - **ρ (defekt):** lokalne rozmycie, smugi, helisy — zapis czasodynam
-Więcej szczegółów: zobacz [TIMDR Metric Transition](docs/TIMDR-metric-transition.md).
+Więcej szczegółów: zobacz [TIMDR Metric Transition]([docs/TIMDR-metric-transition.md](https://github.com/jbackk-lang/GIA-and-TIMDR/blob/main/docs/TIMDR-metric-transition.md]).
