@@ -58,6 +58,6 @@ Dragan dostarcza formalizmu matematycznego, który opisuje:
 Światło zapisuje tę zmianę jako helisy i smugi.  
 Niebo, które widzimy, jest funkcją ostatniej transformacji metryki.**
 ---
-NGC 1300
+„Filary Stworzenia” 
 
 https://github.com/jbackk-lang/GIA-and-TIMDR/blob/main/slon%20pelny%20filtr.PNG
