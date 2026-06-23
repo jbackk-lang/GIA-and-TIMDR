@@ -141,3 +141,19 @@ Fluktuacja jest jednostką czasu; foton jest uporządkowaną fluktuacją; cząst
 
 Open Source — do badań, eksperymentów i rozwoju.  
 
+
+## Metric Transition & Dragan Framework
+
+### 1. Założenia
+
+- **Metric Transition Hypothesis (MTH):**  
+  Obserwowany kosmos jest funkcją ostatniej transformacji metryki (fali przejścia), która przeszła przez lokalną przestrzeń obserwatora.
+
+- **Superluminal Metric Deformation:**  
+  Deformacja metryki może dawać efekty pozornie nadświetlne bez łamania względności, ponieważ zmienia się tło, a nie sygnał.
+
+### 2. Powiązanie z TIMDR (Λ–τ–ρ)
+
+- **Λ (struktura):** globalna metryka, układ X‑w‑X, ramy pola.  
+- **τ (transformacja):** fala przejścia, zmiana skrętu, deformacja czasoprzestrzeni.  
+- **ρ (defekt):** lokalne rozmycie, smugi, helisy — zapis czasodynam
