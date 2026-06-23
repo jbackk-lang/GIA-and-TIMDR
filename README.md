@@ -2,6 +2,9 @@
 **Model impulsu, skrętu i informacji oparty na najprostszej możliwej asymetrii: TRÓJKĄCIE.**  
 To repozytorium opisuje fundamenty TIMDR — ramy interpretacyjnej, która łączy geometrię, informację, pole i dynamikę w jeden spójny mechanizm.
 TIMDR/TRM to język opisu — zestaw pojęć i operatorów który pozwala zadawać pewien typ pytań o strukturę, redukcję i rezonans.
+
+TDA daje narzędzia do mierzenia tego co TIMDR nazywa "spójnością topologiczną" — bez inwencji własnych miar. FEP daje mechanizm dla "rezonansu" — minimalizacja entropii jako zasada dynamiczna. Teoria kategorii daje język dla "warstw T→I→M→I(t)→R→E" jako funktorów między kategoriami.
+Innymi słowy — TIMDR nie potrzebuje być zastąpiony. Potrzebuje być zakorzeniony w tych językach tam gdzie się z nimi pokrywa. To by zamieniło "język który może opisać coś prawdziwego" w "język który już opisuje coś prawdziwego — tutaj, tutaj i tutaj
 ---
 
 # 1. TRÓJKĄT — PIERWSZA RÓŻNICA, PIERWSZY IMPULS
