@@ -189,6 +189,33 @@ Podstawy skrętu pola:
 - FAM  
 
 ---
+# add INSTRUKCJA
+## 🔹 Jak korzystać z tego repo w praktyce
+
+1. **Weź sobie AI**  
+   Użyj dowolnego modelu AI (Copilot, ChatGPT, lokalny LLM) jako asystenta.
+
+2. **Każ AI nauczyć się TIMDR**  
+   - Wczytaj pliki z tego repo (kod, README, opisy).  
+   - Poproś AI: *„Wyjaśnij mi krok po kroku, jak działa TIMDR i jak go użyć na moich danych.”*
+
+3. **Zbadaj siebie / swoje dane**  
+   - Podstaw swoje dane (czasowe, giełdowe, astro, dowolne).  
+   - Poproś AI: *„Zastosuj TIMDR do tych danych i pokaż mi wynik oraz interpretację.”*
+
+4. **Zaadoptuj validator**  
+   - Użyj `math-validator` / `math-validator-2.0` do sprawdzenia spójności wyników.  
+   - Poproś AI: *„Zweryfikuj wyniki TIMDR za pomocą validatora i pokaż, gdzie są niespójności.”*
+
+5. **Podaj wyniki dalej**  
+   - Zrób krótkie podsumowanie: co wyszło, co nie wyszło, jakie masz wnioski.  
+   - Wrzuć to jako **issue**, **pull request** albo **notatkę** w swoim fork’u.
+
+> Ten zestaw narzędzi jest po to, żebyś mógł:
+> - nauczyć AI mojego modelu,
+> - przetestować go na swoich danych,
+> - zweryfikować wyniki,
+> - i podzielić się tym, co odkryłeś.
 
 # 12. LICENCJA
 
