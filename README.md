@@ -7,7 +7,7 @@ TIMDR/TRM to język opisu — zestaw pojęć i operatorów który pozwala zadawa
 
 Model topologicznej kompresji informacji oparty na transformacji Λ–τ–ρ, z warstwą justyfikacji G_J i adaptacyjnym progiem T_adapt, umożliwiający rekonstrukcję struktury argumentacyjnej bez utraty semantycznych relacji przyczynowych, kontrastowych i mechanistycznych.
 
-##TDA daje narzędzia do mierzenia tego co TIMDR nazywa "spójnością topologiczną" — bez inwencji własnych miar. FEP daje mechanizm dla "rezonansu" — minimalizacja entropii jako zasada dynamiczna. Teoria kategorii daje język dla "warstw T→I→M→I(t)→R→E" jako funktorów między kategoriami.
+## TDA daje narzędzia do mierzenia tego co TIMDR nazywa "spójnością topologiczną" — bez inwencji własnych miar. FEP daje mechanizm dla "rezonansu" — minimalizacja entropii jako zasada dynamiczna. Teoria kategorii daje język dla "warstw T→I→M→I(t)→R→E" jako funktorów między kategoriami.
 Innymi słowy — TIMDR nie potrzebuje być zastąpiony. Potrzebuje być zakorzeniony w tych językach tam gdzie się z nimi pokrywa. To by zamieniło "język który może opisać coś prawdziwego" w "język który już opisuje coś prawdziwego — tutaj, tutaj i tutaj
 ---
 
