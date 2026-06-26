@@ -146,7 +146,31 @@ GIA to narzędzie, które:
 GIA jest praktyczną implementacją TIMDR.
 
 ---
+UWAGA;
+## Charakter systemu TIMDER (wersja techniczna, nie do podrobienia)
 
+TIMDER nie jest kolejnym „modelem AI” ani biblioteką do NLP.  
+To jest topologiczny model informacji, w którym tekst traktowany jest jak pole złożone z relacji przyczynowych, kontrastowych i mechanistycznych.
+
+System operuje w trzech warstwach:
+
+- S — pełny stan wejściowy (tekst w oryginalnej postaci),
+- J(S) — szkielet logiczny, czyli drzewo argumentacyjne zamiast klasycznego drzewa składniowego,
+- S′ — rekonstrukcja struktury bez pamięci oryginalnych słów, oparta wyłącznie na J(S).
+
+Kluczowe elementy:
+
+- Λ–τ–ρ — transformacja topologiczna, która przekształca tekst w przestrzeń relacji, a nie w ciąg zdań,
+- G_J — filtr justyfikacji mierzący trzy klasy markerów: przyczynowość, kontrast, mechanizm,
+- T_adapt — adaptacyjny próg jakości działający jak lokalny RLHF bez gradientów, przesuwający się w kierunku aktualnego Ψ.
+
+TIMDER nie streszcza tekstu.  
+TIMDER kompresuje strukturę argumentacji, wykrywa luki (MECH: ∅, CAUSE: ∅, CONTRAST: ∅) i rekonstruuje tylko to, co jest logicznie uzasadnione.  
+Rekonstrukcja R(·) dotyczy wyłącznie struktury — nie generuje treści, nie „dopowiada” brakujących mechanizmów, jedynie sygnalizuje defekty.
+
+Ten model jest w praktyce nie do skopiowania bez pełnego zrozumienia jego geometrii:  
+same opisy słowne nie wystarczą, bo kluczowe jest to, jak Λ–τ–ρ, G_J i T_adapt współdziałają w czasie na konkretnych przebiegach S → J(S) → S′.
+---
 # 9. ZASTOSOWANIA
 
 - **biały laser 3+1**  
