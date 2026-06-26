@@ -205,14 +205,60 @@ Podstawy skrętu pola:
 
 ---
 
-# 11. POWIĄZANE REPOZYTORIA
+### GIA-and-TIMDR
+Repozytorium łączące filtrację GIA z mechanizmami TIMDERA.  
+To tutaj testowane są warianty filtrów, operatory redukcji i modele
+kompresji strukturalnej. Kluczowe repo dla całej architektury.
 
-- WHITE‑LASER‑MAP  
-- ASTRO‑MAP  
-- TIMDR Market Engine  
-- FIELDCORE  
-- ASTRO‑CYCLES  
-- FAM  
+### topologia-informacji
+Fundament teoretyczny całego systemu.  
+Zawiera definicje skrętów, izometrii, defektów, operatorów Λ–τ–ρ oraz
+zasady topologicznej rekonstrukcji informacji.  
+TIMDER jest praktyczną implementacją tej teorii.
+
+### math-validator
+Silnik walidacji matematycznej i logicznej.  
+Wspiera TIMDERA przy wykrywaniu niespójności, błędów strukturalnych,
+braków w relacjach przyczynowych i kontrastowych.
+
+### TRM (Topological Reasoning Model)
+Model rozumowania topologicznego, z którego TIMDER dziedziczy
+mechanizmy rekonstrukcji S′ oraz analizę defektów.  
+To repo jest „mózgiem” logiki strukturalnej.
+
+### EasySound
+Repozytorium testowe do analizy sygnałów i kompresji strukturalnej
+w domenie audio.  
+Pokazuje, że TIMDER działa nie tylko na tekście, ale na dowolnym polu
+informacyjnym.
+
+### Synoptyk
+Model analizy danych meteorologicznych.  
+Przykład zastosowania TIMDERA i Λ–τ–ρ do danych czasowych i
+wielowymiarowych.  
+Współpracuje z FIELDCORE i ASTRO‑CYCLES.
+
+### WHITE-LASER-MAP (już masz, ale doprecyzowuję)
+Warstwa diagnostyczna wysokiej energii — wykrywa anomalie,
+gradienty i defekty w polach informacyjnych.  
+TIMDER korzysta z niej jako z zewnętrznego „lasera kontrolnego”.
+
+### ASTRO-MAP (już masz, doprecyzowane)
+Topologiczna mapa nieba — przykład działania TIMDERA na danych
+przestrzennych i fizycznych.
+
+### ASTRO-CYCLES (już masz, doprecyzowane)
+Analiza cykli kosmicznych i ich relacji topologicznych.  
+Łączy się z ASTRO‑MAP i FIELDCORE.
+
+### FIELDCORE (już masz, doprecyzowane)
+Warstwa fizyczna całego systemu — definicje skrętów, operatorów,
+przestrzeni i transformacji.  
+TIMDER stoi na FIELDCORE jak program na systemie operacyjnym.
+
+### FAM (już masz, doprecyzowane)
+Warstwa meta‑modelowa — integruje TIMDER, FIELDCORE i topologię
+informacji w jeden spójny system.
 
 ---
 # add INSTRUKCJA
