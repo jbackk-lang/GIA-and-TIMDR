@@ -255,6 +255,146 @@ To **narzędzie do opisu wspólnego mechanizmu**.
 - **FAM** — meta‑model
 
 ---
+# Twist (M) w TIMDR
+
+Twist (M) jest podstawową jednostką informacji w TIMDR.  
+To z niego powstają relacje, struktury, obiegi, helisy, tetroidy i emergencja.
+
+---
+
+## 1. Definicja
+**Twist (M) = orientacja zmiany.**  
+To minimalna asymetria, która może istnieć w polu, geometrii lub procesie.  
+Twist jest elementarnym generatorem struktury.
+
+---
+
+## 2. Znaczenie fizyczne
+Twist nie wymaga:
+- materii,
+- przestrzeni,
+- czasu.
+
+Może istnieć w:
+- polach,
+- falach,
+- topologii,
+- geometrii,
+- czystej zmianie.
+
+Twist jest jedyną strukturą, która może istnieć wszędzie i zachować informację.
+
+---
+
+## 3. Twist → Relacja → Informacja
+Fundamentalny łańcuch TIMDR:
+
+1. **Twist (M)** — orientacja zmiany  
+2. **Relacja I(t)** — interakcja twistów (Laplacjan skrętu)  
+3. **Informacja (R/E)** — stabilne wzorce skrętu (rezonans, siatka)
+
+To jest fizyczny kręgosłup TIMDR.
+
+---
+
+## 4. Möbius i podwójny Möbius (M²)
+- **Möbius** — jednostronność skrętu  
+- **M² (double Möbius)** — twist działający na twist
+
+M² generuje:
+- interferencję,
+- dyfrakcję,
+- stabilne węzły relacyjne,
+- emergentne struktury.
+
+---
+
+## 5. τ — ciągłe pole skrętu
+Pole skrętu definiowane jako Laplacjan powierzchni:
+
+
+
+\[
+\tau = \nabla^2 S
+\]
+
+
+
+Znaczenie:
+- τ mierzy **ile** skrętu jest obecne,
+- τ jest **ciągłe**,
+- τ rządzi geometrią Möbiusa, mobiosotourysa i tetroidy.
+
+τ jest **polem** skrętu.
+
+---
+
+## 6. J — dyskretny operator skrętu
+Operator punktowy:
+
+
+
+\[
+J = \frac{d\tau}{ds}
+\]
+
+
+
+Znaczenie:
+- J mierzy **gdzie** skręt się zmienia,
+- J jest **dyskretny / punktowy**,
+- J wyznacza punkty przejścia orientacji.
+
+J jest **operatorem** skrętu.
+
+---
+
+## 7. Mobiosotourys — torus z twistem Möbiusa
+Powierzchnia interpolująca:
+
+
+
+\[
+\begin{aligned}
+x &= (R + r\cos(v + \tfrac{1}{2}u))\cos u, \\
+y &= (R + r\cos(v + \tfrac{1}{2}u))\sin u, \\
+z &= r\sin(v + \tfrac{1}{2}u)
+\end{aligned}
+\]
+
+
+
+Mobiosotourys przechodzi przez:
+- torus (brak skrętu),
+- Möbius (jednostronność),
+- tetroidę (osobliwość skrętu).
+
+---
+
+## 8. Tetroida — osobliwość τ
+Tetroida jest minimalną stabilną osobliwością skrętu:
+
+- jednostronna,
+- zamknięta warunkami brzegowymi,
+- trzy wypukłe ściany,
+- maksymalne τ,
+- punkt przejścia ΔS.
+
+Tetroida jest **końcem koncentracji skrętu**.
+
+---
+
+## 9. Mapowanie na pipeline TIMDR
+TIMDR pipeline:
+
+- **T** — momentum  
+- **I** — process  
+- **M** — twist  
+- **I(t)** — relation + time  
+- **R** — stabilization  
+- **E** — emergence (closure of M²)
+
+Twist (M) jest centralnym elementem całego pipeline’u.
 
 # 16. Licencja
 
