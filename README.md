@@ -1,5 +1,6 @@
 ## Dokumentacja online
 https://jbackk-lang.github.io/
+![Diagram TRM / GIA / TIMDR](https://github.com/jbackk-lang/GIA-and-TIMDR/raw/main/diagram.png)
 # GIA‑and‑TIMDR  
 **Model impulsu, skrętu i informacji oparty na najprostszej możliwej asymetrii: TRÓJKĄCIE.**  
 To repozytorium opisuje fundamenty TIMDR — ramy interpretacyjnej, która łączy geometrię, informację, pole i dynamikę w jeden spójny mechanizm.
